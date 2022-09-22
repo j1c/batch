@@ -70,25 +70,7 @@ tdf <- csv %>%
 
 ```
 
-```{r,fig.height=12, fig.width=9}
-# covar.reord <- results$Covar.Tbl %>%
-#     filter(!(Dataset %in% c("NKI24tr645", "NKI24tr1400"))) %>%
-#     mutate(Dataset = recode_factor(Dataset, NKI24tr2500 = "NKI24")) %>%
-#     mutate(
-#         Dataset = factor(
-#             Dataset, levels = (dset.ord %>%
-#                 filter(!(Dataset %in% c("NKI24tr645", "NKI24tr1400"))) %>%
-#                 mutate(Dataset = recode_factor(Dataset, NKI24tr2500 = "NKI24")))$Dataset,
-#             ordered = TRUE
-#         )
-#     ) %>%
-#     group_by(Subid, Dataset) %>%
-#     arrange(desc(Session)) %>%
-#     do(head(., 1))
-
-
-# tdf <- test %>% select(columns) %>% mutate(SITE_ID = factor(SITE_ID,)) %>% mutate(Continent = factor(Continent, ordered=TRUE)) %>% mutate(SEX = factor(SEX)) %>% mutate(DX_GROUP = factor(DX_GROUP)) %>% group_by(SITE_ID) 
-
+```{r,fig.height=11, fig.width=8.5}
 
 plt <- (df <- tdf %>%
     group_by(SITE_ID, SEX, Continent) %>%
@@ -146,6 +128,10 @@ plt = plt %>%
 plt
 
 
+```
+```{r}
+ggsave("./figures/abide_demographics.pdf", device="pdf", height = 11, width=8.5, unit="in", limitsize = FALSE)
+ggsave("./figures/abide_demographics.png", device="png", height = 11, width=8.5, unit="in", limitsize = FALSE)
 ```
 
 
