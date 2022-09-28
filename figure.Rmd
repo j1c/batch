@@ -250,7 +250,7 @@ ggsave("./figures/combined_demographics.png", device="pdf", height = 11, width=8
 ```{r}
 combined_df <- rbind(abide, srpbs)
 
-write.csv(combined_df, "./data/combined_demographics.csv", quote=FALSE, row.names=FALSE)
+write.csv(combined_df, "./data/abide_srpbs_demographics.csv", quote=FALSE, row.names=FALSE)
 
 ```
 
