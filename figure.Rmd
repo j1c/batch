@@ -329,11 +329,11 @@ plot_grid(
 )
 
 ggsave(
-  "./figures/composite_fig.pdf", device = "pdf", height = 11, width = 10,
+  "./figures/mega_overlap.pdf", device = "pdf", height = 11, width = 10,
   unit = "in", limitsize = FALSE
 )
 ggsave(
-  "./figures/composite_fig.png", device = "png", height = 11, width = 10,
+  "./figures/mega_overlap.png", device = "png", height = 11, width = 10,
   unit = "in", limitsize = FALSE
 )
 ```
