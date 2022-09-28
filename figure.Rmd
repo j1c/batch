@@ -285,8 +285,16 @@ res$DISTANCE <- 1 - (res$DISTANCE / sqrt(2))
 ```
 
 ```{r}
-abide_dists <- (tmp <- res %>% filter(DATASET=='ABIDE') %>% arrange(SITE1, SITE2)) %>% ggplot(aes(SITE1, SITE2, fill= DISTANCE)) + 
-  geom_tile() + theme(axis.text.x=element_text(angle=90, vjust=0.5, hjust=1), legend.position="bottom") +scale_fill_gradient(low="white", high="#33007b")+  coord_equal()
+abide_dists <- (tmp <- res %>%
+  filter(DATASET == "ABIDE") %>%
+  arrange(SITE1, SITE2)) %>%
+  ggplot(aes(SITE1, SITE2, fill = DISTANCE)) +
+  geom_tile() + theme(
+  axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1),
+  legend.position = "bottom"
+) +
+  scale_fill_gradient(low = "white", high = "#33007b") +
+  coord_equal() + labs(fill = "Overlap")
 
 abide_dists
 ```
@@ -294,8 +302,16 @@ abide_dists
 
 
 ```{r}
-srpbs_dists <- (tmp <- res %>% filter(DATASET=='SRPBS') %>% arrange(SITE1, SITE2)) %>% ggplot(aes(SITE1, SITE2, fill= DISTANCE)) + 
-  geom_tile() + theme(axis.text.x=element_text(angle=90, vjust=0.5, hjust=1), legend.position="bottom") +scale_fill_gradient(low="white", high="#33007b") +  coord_equal()
+srpbs_dists <- (tmp <- res %>%
+  filter(DATASET == "SRPBS") %>%
+  arrange(SITE1, SITE2)) %>%
+  ggplot(aes(SITE1, SITE2, fill = DISTANCE)) +
+  geom_tile() + theme(
+  axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1),
+  legend.position = "bottom"
+) +
+  scale_fill_gradient(low = "white", high = "#33007b") +
+  coord_equal() + labs(fill = "Overlap")
 
 
 srpbs_dists
@@ -303,15 +319,22 @@ srpbs_dists
 
 
 ```{r}
-right_col <- plot_grid(abide_dists, srpbs_dists, labels = c('B', 'C'), nrow=2, label_size = 12)
-plot_grid(plt, right_col, labels = c('A', ''), label_size = 12, ncol = 2, rel_widths = c(1.9, 1))
+right_col <- plot_grid(
+  abide_dists, srpbs_dists, labels = c("B", "C"),
+  nrow = 2, label_size = 12
+)
+plot_grid(
+  plt, right_col, labels = c("A", ""),
+  label_size = 12, ncol = 2, rel_widths = c(1.9, 1)
+)
 
-ggsave("./figures/composite_fig.pdf", device="pdf", height = 11, width=10, unit="in", limitsize = FALSE)
-ggsave("./figures/composite_fig.png", device="png", height = 11, width=10, unit="in", limitsize = FALSE)
-```
-
-
-```{r}
-
+ggsave(
+  "./figures/composite_fig.pdf", device = "pdf", height = 11, width = 10,
+  unit = "in", limitsize = FALSE
+)
+ggsave(
+  "./figures/composite_fig.png", device = "png", height = 11, width = 10,
+  unit = "in", limitsize = FALSE
+)
 ```
 
