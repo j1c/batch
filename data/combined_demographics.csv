@@ -1,42 +1,42 @@
 SITE_ID,DX_GROUP,SEX,AGE_AT_SCAN,Continent,DATASET
-CALTECH1,1,1,55.4,North America,ABIDE
-CALTECH1,1,1,22.9,North America,ABIDE
-CALTECH1,1,1,39.2,North America,ABIDE
-CALTECH1,1,1,22.8,North America,ABIDE
-CALTECH1,1,2,34.6,North America,ABIDE
-CALTECH1,1,1,37.7,North America,ABIDE
-CALTECH1,1,2,20.2,North America,ABIDE
-CALTECH1,1,2,20.2,North America,ABIDE
-CALTECH1,1,1,20.9,North America,ABIDE
-CALTECH1,1,1,20.2,North America,ABIDE
-CALTECH1,1,1,27.6,North America,ABIDE
-CALTECH1,1,1,23.4,North America,ABIDE
-CALTECH1,1,1,20.1,North America,ABIDE
-CALTECH1,1,1,45.1,North America,ABIDE
-CALTECH1,1,1,29.1,North America,ABIDE
-CALTECH1,1,2,22.4,North America,ABIDE
-CALTECH1,1,1,17.5,North America,ABIDE
-CALTECH1,1,1,21.2,North America,ABIDE
-CALTECH1,1,1,20.9,North America,ABIDE
-CALTECH1,2,1,44.2,North America,ABIDE
-CALTECH1,2,1,39.3,North America,ABIDE
-CALTECH1,2,1,42.5,North America,ABIDE
-CALTECH1,2,1,19.7,North America,ABIDE
-CALTECH1,2,2,20,North America,ABIDE
-CALTECH1,2,2,20.8,North America,ABIDE
-CALTECH1,2,1,27.9,North America,ABIDE
-CALTECH1,2,2,21.1,North America,ABIDE
-CALTECH1,2,1,20.9,North America,ABIDE
-CALTECH1,2,1,23.6,North America,ABIDE
-CALTECH1,2,1,23.9,North America,ABIDE
-CALTECH1,2,1,22,North America,ABIDE
-CALTECH1,2,1,17,North America,ABIDE
-CALTECH1,2,1,23.3,North America,ABIDE
-CALTECH1,2,1,34.1,North America,ABIDE
-CALTECH1,2,1,44.1,North America,ABIDE
-CALTECH1,2,1,56.2,North America,ABIDE
-CALTECH1,2,1,18.7,North America,ABIDE
-CALTECH1,2,2,29.2,North America,ABIDE
+CAL1,1,1,55.4,North America,ABIDE
+CAL1,1,1,22.9,North America,ABIDE
+CAL1,1,1,39.2,North America,ABIDE
+CAL1,1,1,22.8,North America,ABIDE
+CAL1,1,2,34.6,North America,ABIDE
+CAL1,1,1,37.7,North America,ABIDE
+CAL1,1,2,20.2,North America,ABIDE
+CAL1,1,2,20.2,North America,ABIDE
+CAL1,1,1,20.9,North America,ABIDE
+CAL1,1,1,20.2,North America,ABIDE
+CAL1,1,1,27.6,North America,ABIDE
+CAL1,1,1,23.4,North America,ABIDE
+CAL1,1,1,20.1,North America,ABIDE
+CAL1,1,1,45.1,North America,ABIDE
+CAL1,1,1,29.1,North America,ABIDE
+CAL1,1,2,22.4,North America,ABIDE
+CAL1,1,1,17.5,North America,ABIDE
+CAL1,1,1,21.2,North America,ABIDE
+CAL1,1,1,20.9,North America,ABIDE
+CAL1,2,1,44.2,North America,ABIDE
+CAL1,2,1,39.3,North America,ABIDE
+CAL1,2,1,42.5,North America,ABIDE
+CAL1,2,1,19.7,North America,ABIDE
+CAL1,2,2,20,North America,ABIDE
+CAL1,2,2,20.8,North America,ABIDE
+CAL1,2,1,27.9,North America,ABIDE
+CAL1,2,2,21.1,North America,ABIDE
+CAL1,2,1,20.9,North America,ABIDE
+CAL1,2,1,23.6,North America,ABIDE
+CAL1,2,1,23.9,North America,ABIDE
+CAL1,2,1,22,North America,ABIDE
+CAL1,2,1,17,North America,ABIDE
+CAL1,2,1,23.3,North America,ABIDE
+CAL1,2,1,34.1,North America,ABIDE
+CAL1,2,1,44.1,North America,ABIDE
+CAL1,2,1,56.2,North America,ABIDE
+CAL1,2,1,18.7,North America,ABIDE
+CAL1,2,2,29.2,North America,ABIDE
 CMU1,1,1,33,North America,ABIDE
 CMU1,1,1,21,North America,ABIDE
 CMU1,1,2,19,North America,ABIDE
@@ -119,35 +119,6 @@ KKI1,1,1,11.37,North America,ABIDE
 KKI1,1,1,10.29,North America,ABIDE
 KKI1,1,1,8.5,North America,ABIDE
 KKI1,1,1,10.57,North America,ABIDE
-KUL1,2,1,23,Europe,ABIDE
-KUL1,2,1,24,Europe,ABIDE
-KUL1,2,1,23,Europe,ABIDE
-KUL1,1,1,19,Europe,ABIDE
-KUL1,2,1,22,Europe,ABIDE
-KUL1,2,1,21,Europe,ABIDE
-KUL1,1,1,21,Europe,ABIDE
-KUL1,1,1,22,Europe,ABIDE
-KUL1,2,1,22,Europe,ABIDE
-KUL1,2,1,22,Europe,ABIDE
-KUL1,1,1,22,Europe,ABIDE
-KUL1,1,1,19,Europe,ABIDE
-KUL1,1,1,19,Europe,ABIDE
-KUL1,1,1,20,Europe,ABIDE
-KUL1,1,1,19,Europe,ABIDE
-KUL1,2,1,28,Europe,ABIDE
-KUL1,2,1,21,Europe,ABIDE
-KUL1,1,1,23,Europe,ABIDE
-KUL1,2,1,18,Europe,ABIDE
-KUL1,1,1,18,Europe,ABIDE
-KUL1,2,1,29,Europe,ABIDE
-KUL1,1,1,29,Europe,ABIDE
-KUL1,1,1,24,Europe,ABIDE
-KUL1,2,1,22,Europe,ABIDE
-KUL1,2,1,22,Europe,ABIDE
-KUL1,1,1,32,Europe,ABIDE
-KUL1,2,1,25,Europe,ABIDE
-KUL1,2,1,27,Europe,ABIDE
-KUL1,1,1,19,Europe,ABIDE
 KUL2,2,2,13.8,Europe,ABIDE
 KUL2,2,2,13.8,Europe,ABIDE
 KUL2,2,1,15.1,Europe,ABIDE
@@ -183,63 +154,63 @@ KUL2,1,1,12.3,Europe,ABIDE
 KUL2,1,1,12.2,Europe,ABIDE
 KUL2,1,1,14.9,Europe,ABIDE
 KUL2,1,1,14.3,Europe,ABIDE
-MAXMUN1,1,2,29,Europe,ABIDE
-MAXMUN1,1,1,26,Europe,ABIDE
-MAXMUN1,1,1,19,Europe,ABIDE
-MAXMUN1,1,1,33,Europe,ABIDE
-MAXMUN1,1,1,31,Europe,ABIDE
-MAXMUN1,1,2,45,Europe,ABIDE
-MAXMUN1,1,1,29,Europe,ABIDE
-MAXMUN1,1,1,30,Europe,ABIDE
-MAXMUN1,1,1,52,Europe,ABIDE
-MAXMUN1,1,2,32,Europe,ABIDE
-MAXMUN1,1,1,42,Europe,ABIDE
-MAXMUN1,1,1,58,Europe,ABIDE
-MAXMUN1,1,1,22,Europe,ABIDE
-MAXMUN1,1,1,18,Europe,ABIDE
-MAXMUN1,1,1,45,Europe,ABIDE
-MAXMUN1,1,1,35,Europe,ABIDE
-MAXMUN1,2,1,23,Europe,ABIDE
-MAXMUN1,2,1,24,Europe,ABIDE
-MAXMUN1,2,1,27,Europe,ABIDE
-MAXMUN1,2,1,23,Europe,ABIDE
-MAXMUN1,2,1,26,Europe,ABIDE
-MAXMUN1,2,1,30,Europe,ABIDE
-MAXMUN1,2,1,29,Europe,ABIDE
-MAXMUN1,2,1,29,Europe,ABIDE
-MAXMUN1,2,1,29,Europe,ABIDE
-MAXMUN1,2,1,23,Europe,ABIDE
-MAXMUN1,2,1,30,Europe,ABIDE
-MAXMUN1,2,1,22,Europe,ABIDE
-MAXMUN1,2,1,35,Europe,ABIDE
-MAXMUN1,2,1,25,Europe,ABIDE
-MAXMUN1,2,1,24,Europe,ABIDE
-MAXMUN1,1,1,8,Europe,ABIDE
-MAXMUN1,1,1,11,Europe,ABIDE
-MAXMUN1,1,1,11,Europe,ABIDE
-MAXMUN1,1,1,11,Europe,ABIDE
-MAXMUN1,1,1,9,Europe,ABIDE
-MAXMUN1,1,1,7,Europe,ABIDE
-MAXMUN1,1,1,12,Europe,ABIDE
-MAXMUN1,1,1,11,Europe,ABIDE
-MAXMUN1,2,1,10,Europe,ABIDE
-MAXMUN1,2,1,11,Europe,ABIDE
-MAXMUN1,2,1,10,Europe,ABIDE
-MAXMUN1,2,1,13,Europe,ABIDE
-MAXMUN1,2,1,7,Europe,ABIDE
-MAXMUN1,2,1,16,Europe,ABIDE
-MAXMUN1,2,1,33,Europe,ABIDE
-MAXMUN1,2,1,32,Europe,ABIDE
-MAXMUN1,2,1,26,Europe,ABIDE
-MAXMUN1,2,1,23,Europe,ABIDE
-MAXMUN1,2,2,32,Europe,ABIDE
-MAXMUN1,2,1,21,Europe,ABIDE
-MAXMUN1,2,2,28,Europe,ABIDE
-MAXMUN1,2,1,32,Europe,ABIDE
-MAXMUN1,2,2,32,Europe,ABIDE
-MAXMUN1,2,1,48,Europe,ABIDE
-MAXMUN1,2,2,46,Europe,ABIDE
-MAXMUN1,2,1,46,Europe,ABIDE
+MAX1,1,2,29,Europe,ABIDE
+MAX1,1,1,26,Europe,ABIDE
+MAX1,1,1,19,Europe,ABIDE
+MAX1,1,1,33,Europe,ABIDE
+MAX1,1,1,31,Europe,ABIDE
+MAX1,1,2,45,Europe,ABIDE
+MAX1,1,1,29,Europe,ABIDE
+MAX1,1,1,30,Europe,ABIDE
+MAX1,1,1,52,Europe,ABIDE
+MAX1,1,2,32,Europe,ABIDE
+MAX1,1,1,42,Europe,ABIDE
+MAX1,1,1,58,Europe,ABIDE
+MAX1,1,1,22,Europe,ABIDE
+MAX1,1,1,18,Europe,ABIDE
+MAX1,1,1,45,Europe,ABIDE
+MAX1,1,1,35,Europe,ABIDE
+MAX1,2,1,23,Europe,ABIDE
+MAX1,2,1,24,Europe,ABIDE
+MAX1,2,1,27,Europe,ABIDE
+MAX1,2,1,23,Europe,ABIDE
+MAX1,2,1,26,Europe,ABIDE
+MAX1,2,1,30,Europe,ABIDE
+MAX1,2,1,29,Europe,ABIDE
+MAX1,2,1,29,Europe,ABIDE
+MAX1,2,1,29,Europe,ABIDE
+MAX1,2,1,23,Europe,ABIDE
+MAX1,2,1,30,Europe,ABIDE
+MAX1,2,1,22,Europe,ABIDE
+MAX1,2,1,35,Europe,ABIDE
+MAX1,2,1,25,Europe,ABIDE
+MAX1,2,1,24,Europe,ABIDE
+MAX1,1,1,8,Europe,ABIDE
+MAX1,1,1,11,Europe,ABIDE
+MAX1,1,1,11,Europe,ABIDE
+MAX1,1,1,11,Europe,ABIDE
+MAX1,1,1,9,Europe,ABIDE
+MAX1,1,1,7,Europe,ABIDE
+MAX1,1,1,12,Europe,ABIDE
+MAX1,1,1,11,Europe,ABIDE
+MAX1,2,1,10,Europe,ABIDE
+MAX1,2,1,11,Europe,ABIDE
+MAX1,2,1,10,Europe,ABIDE
+MAX1,2,1,13,Europe,ABIDE
+MAX1,2,1,7,Europe,ABIDE
+MAX1,2,1,16,Europe,ABIDE
+MAX1,2,1,33,Europe,ABIDE
+MAX1,2,1,32,Europe,ABIDE
+MAX1,2,1,26,Europe,ABIDE
+MAX1,2,1,23,Europe,ABIDE
+MAX1,2,2,32,Europe,ABIDE
+MAX1,2,1,21,Europe,ABIDE
+MAX1,2,2,28,Europe,ABIDE
+MAX1,2,1,32,Europe,ABIDE
+MAX1,2,2,32,Europe,ABIDE
+MAX1,2,1,48,Europe,ABIDE
+MAX1,2,2,46,Europe,ABIDE
+MAX1,2,1,46,Europe,ABIDE
 NYU1,1,2,8.74,North America,ABIDE
 NYU1,1,2,11.764,North America,ABIDE
 NYU1,1,2,14.75,North America,ABIDE
@@ -424,391 +395,312 @@ NYU1,2,1,30.08,North America,ABIDE
 NYU1,2,1,30.78,North America,ABIDE
 NYU1,2,1,21.15,North America,ABIDE
 NYU1,2,1,12.81,North America,ABIDE
-OHSU1,1,1,13.99,North America,ABIDE
-OHSU1,1,1,13.79,North America,ABIDE
-OHSU1,1,1,10.22,North America,ABIDE
-OHSU1,1,1,10.75,North America,ABIDE
-OHSU1,1,1,8,North America,ABIDE
-OHSU1,1,1,11.35,North America,ABIDE
-OHSU1,1,1,12.65,North America,ABIDE
-OHSU1,1,1,12.32,North America,ABIDE
-OHSU1,1,1,9.42,North America,ABIDE
-OHSU1,1,1,9.73,North America,ABIDE
-OHSU1,1,1,9.72,North America,ABIDE
-OHSU1,1,1,14.42,North America,ABIDE
-OHSU1,1,1,15.23,North America,ABIDE
-OHSU1,2,1,10.5,North America,ABIDE
-OHSU1,2,1,11.55,North America,ABIDE
-OHSU1,2,1,10.29,North America,ABIDE
-OHSU1,2,1,11.45,North America,ABIDE
-OHSU1,2,1,9.15,North America,ABIDE
-OHSU1,2,1,8.94,North America,ABIDE
-OHSU1,2,1,9.4,North America,ABIDE
-OHSU1,2,1,8.86,North America,ABIDE
-OHSU1,2,1,9.69,North America,ABIDE
-OHSU1,2,1,8.2,North America,ABIDE
-OHSU1,2,1,10.08,North America,ABIDE
-OHSU1,2,1,9.69,North America,ABIDE
-OHSU1,2,1,11.99,North America,ABIDE
-OHSU1,2,1,10.53,North America,ABIDE
-OHSU1,2,1,10.64,North America,ABIDE
-OILH1,1,1,12,North America,ABIDE
-OILH1,1,1,12,North America,ABIDE
-OILH1,1,1,12,North America,ABIDE
-OILH1,1,1,15,North America,ABIDE
-OILH1,1,1,17,North America,ABIDE
-OILH1,1,1,19,North America,ABIDE
-OILH1,1,1,18,North America,ABIDE
-OILH1,1,1,17,North America,ABIDE
-OILH1,1,1,18,North America,ABIDE
-OILH1,1,1,11,North America,ABIDE
-OILH1,1,1,20,North America,ABIDE
-OILH1,1,1,20,North America,ABIDE
-OILH1,1,1,15,North America,ABIDE
-OILH1,1,1,16,North America,ABIDE
-OILH1,1,1,16,North America,ABIDE
-OILH1,1,2,14,North America,ABIDE
-OILH1,1,2,24,North America,ABIDE
-OILH1,1,1,18,North America,ABIDE
-OILH1,1,2,19,North America,ABIDE
-OILH1,1,1,21,North America,ABIDE
-OILH1,2,1,17,North America,ABIDE
-OILH1,2,1,15,North America,ABIDE
-OILH1,2,2,15,North America,ABIDE
-OILH1,2,1,16,North America,ABIDE
-OILH1,2,1,14,North America,ABIDE
-OILH1,2,1,14,North America,ABIDE
-OILH1,2,1,20,North America,ABIDE
-OILH1,2,1,14,North America,ABIDE
-OILH1,2,1,21,North America,ABIDE
-OILH1,2,1,23,North America,ABIDE
-OILH1,2,1,13,North America,ABIDE
-OILH1,2,2,20,North America,ABIDE
-OILH1,2,1,10,North America,ABIDE
-OILH1,2,1,21,North America,ABIDE
-OILH1,2,1,17,North America,ABIDE
-OILH1,2,1,21,North America,ABIDE
-PITT1,1,1,16.77,North America,ABIDE
-PITT1,1,1,24.45,North America,ABIDE
-PITT1,1,1,19.09,North America,ABIDE
-PITT1,1,2,13.73,North America,ABIDE
-PITT1,1,1,13.37,North America,ABIDE
-PITT1,1,1,17.78,North America,ABIDE
-PITT1,1,1,32.45,North America,ABIDE
-PITT1,1,1,33.86,North America,ABIDE
-PITT1,1,1,35.2,North America,ABIDE
-PITT1,1,1,16.93,North America,ABIDE
-PITT1,1,1,21.48,North America,ABIDE
-PITT1,1,1,9.33,North America,ABIDE
-PITT1,1,1,14.2,North America,ABIDE
-PITT1,1,1,14.2,North America,ABIDE
-PITT1,1,1,21.82,North America,ABIDE
-PITT1,1,1,22.7,North America,ABIDE
-PITT1,1,1,27.81,North America,ABIDE
-PITT1,1,1,20.83,North America,ABIDE
-PITT1,1,1,16.99,North America,ABIDE
-PITT1,1,2,12.64,North America,ABIDE
-PITT1,1,1,22.64,North America,ABIDE
-PITT1,1,1,31.72,North America,ABIDE
-PITT1,1,1,16.28,North America,ABIDE
-PITT1,1,1,12.24,North America,ABIDE
-PITT1,1,1,12.74,North America,ABIDE
-PITT1,1,2,11.4,North America,ABIDE
-PITT1,1,1,12.03,North America,ABIDE
-PITT1,1,1,16.99,North America,ABIDE
-PITT1,1,1,13.59,North America,ABIDE
-PITT1,1,2,12.62,North America,ABIDE
-PITT1,2,1,25.12,North America,ABIDE
-PITT1,2,1,12.92,North America,ABIDE
-PITT1,2,1,19.8,North America,ABIDE
-PITT1,2,1,12.15,North America,ABIDE
-PITT1,2,1,14.77,North America,ABIDE
-PITT1,2,1,17.36,North America,ABIDE
-PITT1,2,2,13.28,North America,ABIDE
-PITT1,2,1,19.16,North America,ABIDE
-PITT1,2,2,13.95,North America,ABIDE
-PITT1,2,1,30.66,North America,ABIDE
-PITT1,2,1,24.6,North America,ABIDE
-PITT1,2,1,27.92,North America,ABIDE
-PITT1,2,1,33.17,North America,ABIDE
-PITT1,2,1,13.78,North America,ABIDE
-PITT1,2,1,17.13,North America,ABIDE
-PITT1,2,1,15.7,North America,ABIDE
-PITT1,2,1,20.65,North America,ABIDE
-PITT1,2,1,15.35,North America,ABIDE
-PITT1,2,1,11.81,North America,ABIDE
-PITT1,2,2,15.82,North America,ABIDE
-PITT1,2,1,14.37,North America,ABIDE
-PITT1,2,1,12.83,North America,ABIDE
-PITT1,2,1,33.24,North America,ABIDE
-PITT1,2,1,9.44,North America,ABIDE
-PITT1,2,1,23.1,North America,ABIDE
-PITT1,2,2,21.22,North America,ABIDE
-PITT1,2,1,20.34,North America,ABIDE
-SBL1,2,1,20,Europe,ABIDE
-SBL1,2,1,26,Europe,ABIDE
-SBL1,2,1,27,Europe,ABIDE
-SBL1,2,1,27,Europe,ABIDE
-SBL1,2,1,27,Europe,ABIDE
-SBL1,2,1,36,Europe,ABIDE
-SBL1,2,1,37,Europe,ABIDE
-SBL1,2,1,38,Europe,ABIDE
-SBL1,2,1,39,Europe,ABIDE
-SBL1,2,1,39,Europe,ABIDE
-SBL1,2,1,41,Europe,ABIDE
-SBL1,2,1,34,Europe,ABIDE
-SBL1,2,1,37,Europe,ABIDE
-SBL1,2,1,36,Europe,ABIDE
-SBL1,2,1,42,Europe,ABIDE
-SBL1,1,1,22,Europe,ABIDE
-SBL1,1,1,28,Europe,ABIDE
-SBL1,1,1,30,Europe,ABIDE
-SBL1,1,1,30,Europe,ABIDE
-SBL1,1,1,31,Europe,ABIDE
-SBL1,1,1,31,Europe,ABIDE
-SBL1,1,1,31,Europe,ABIDE
-SBL1,1,1,33,Europe,ABIDE
-SBL1,1,1,41,Europe,ABIDE
-SBL1,1,1,42,Europe,ABIDE
-SBL1,1,1,64,Europe,ABIDE
-SBL1,1,1,31,Europe,ABIDE
-SBL1,1,1,35,Europe,ABIDE
-SBL1,1,1,49,Europe,ABIDE
-SBL1,1,1,27,Europe,ABIDE
-SDSU1,1,1,16.61,North America,ABIDE
-SDSU1,1,1,14.14,North America,ABIDE
-SDSU1,1,1,17.15,North America,ABIDE
-SDSU1,1,2,12.44,North America,ABIDE
-SDSU1,1,1,12.13,North America,ABIDE
-SDSU1,1,1,16.48,North America,ABIDE
-SDSU1,1,1,15.4,North America,ABIDE
-SDSU1,1,1,16.64,North America,ABIDE
-SDSU1,1,1,13.99,North America,ABIDE
-SDSU1,1,1,12.63,North America,ABIDE
-SDSU1,1,1,12.99,North America,ABIDE
-SDSU1,2,1,14.75,North America,ABIDE
-SDSU1,2,1,13.35,North America,ABIDE
-SDSU1,2,1,12.58,North America,ABIDE
-SDSU1,2,1,12.91,North America,ABIDE
-SDSU1,2,1,14.98,North America,ABIDE
-SDSU1,2,1,15.28,North America,ABIDE
-SDSU1,2,1,15.53,North America,ABIDE
-SDSU1,2,1,13.88,North America,ABIDE
-SDSU1,2,2,13.77,North America,ABIDE
-SDSU1,2,1,12.08,North America,ABIDE
-SDSU1,2,1,16.05,North America,ABIDE
-SDSU1,2,1,14.86,North America,ABIDE
-SDSU1,2,2,14.1,North America,ABIDE
-SDSU1,2,2,8.67,North America,ABIDE
-SDSU1,1,1,16.06,North America,ABIDE
-SDSU1,2,2,13.78,North America,ABIDE
-SDSU1,2,1,16.57,North America,ABIDE
-SDSU1,2,1,16.6,North America,ABIDE
-SDSU1,2,1,16.13,North America,ABIDE
-SDSU1,1,1,13.81,North America,ABIDE
-SDSU1,2,2,12.38,North America,ABIDE
-SDSU1,2,1,14.76,North America,ABIDE
-SDSU1,2,2,16.88,North America,ABIDE
-SDSU1,1,1,15.6,North America,ABIDE
-SDSU1,2,1,12.9,North America,ABIDE
-STANFORD1,1,1,7.9336,North America,ABIDE
-STANFORD1,1,1,9.0301,North America,ABIDE
-STANFORD1,1,2,8.9199,North America,ABIDE
-STANFORD1,1,1,9.0821,North America,ABIDE
-STANFORD1,1,2,8.4216,North America,ABIDE
-STANFORD1,1,1,11.8433,North America,ABIDE
-STANFORD1,1,1,8.3833,North America,ABIDE
-STANFORD1,1,2,11.8789,North America,ABIDE
-STANFORD1,1,1,11.2628,North America,ABIDE
-STANFORD1,1,1,9.7775,North America,ABIDE
-STANFORD1,1,2,10.8652,North America,ABIDE
-STANFORD1,1,1,12.9363,North America,ABIDE
-STANFORD1,1,1,8.7912,North America,ABIDE
-STANFORD1,1,1,7.5284,North America,ABIDE
-STANFORD1,1,1,9.9473,North America,ABIDE
-STANFORD1,1,1,8.5804,North America,ABIDE
-STANFORD1,1,1,9.271,North America,ABIDE
-STANFORD1,1,1,11.6982,North America,ABIDE
-STANFORD1,1,1,11.4326,North America,ABIDE
-STANFORD1,1,1,11.6543,North America,ABIDE
-STANFORD1,2,2,7.7502,North America,ABIDE
-STANFORD1,2,1,9.3149,North America,ABIDE
-STANFORD1,2,1,10.6927,North America,ABIDE
-STANFORD1,2,1,8.2656,North America,ABIDE
-STANFORD1,2,2,9.1068,North America,ABIDE
-STANFORD1,2,1,8.2464,North America,ABIDE
-STANFORD1,2,1,8.3203,North America,ABIDE
-STANFORD1,2,1,8.3313,North America,ABIDE
-STANFORD1,2,2,8.9747,North America,ABIDE
-STANFORD1,2,1,9.2081,North America,ABIDE
-STANFORD1,2,1,8.9363,North America,ABIDE
-STANFORD1,2,1,9.7201,North America,ABIDE
-STANFORD1,2,2,10.2218,North America,ABIDE
-STANFORD1,2,1,9.5202,North America,ABIDE
-STANFORD1,2,1,12.3477,North America,ABIDE
-STANFORD1,2,1,11.178,North America,ABIDE
-STANFORD1,2,1,11.8816,North America,ABIDE
-STANFORD1,2,1,12.4298,North America,ABIDE
-STANFORD1,2,1,12.2546,North America,ABIDE
-STANFORD1,2,1,12.3833,North America,ABIDE
-TCD1,1,1,23.08,Europe,ABIDE
-TCD1,1,1,20.75,Europe,ABIDE
-TCD1,1,1,15.66,Europe,ABIDE
-TCD1,1,1,15.33,Europe,ABIDE
-TCD1,1,1,19.16,Europe,ABIDE
-TCD1,1,1,21.42,Europe,ABIDE
-TCD1,1,1,18.92,Europe,ABIDE
-TCD1,1,1,17.03,Europe,ABIDE
-TCD1,1,1,15.05,Europe,ABIDE
-TCD1,1,1,17.17,Europe,ABIDE
-TCD1,1,1,12.75,Europe,ABIDE
-TCD1,1,1,13.75,Europe,ABIDE
-TCD1,1,1,25.91,Europe,ABIDE
-TCD1,1,1,21.58,Europe,ABIDE
-TCD1,1,1,19.5,Europe,ABIDE
-TCD1,1,1,12,Europe,ABIDE
-TCD1,1,1,13.58,Europe,ABIDE
-TCD1,1,1,13.83,Europe,ABIDE
-TCD1,1,1,13.91,Europe,ABIDE
-TCD1,1,1,17.25,Europe,ABIDE
-TCD1,1,1,15.25,Europe,ABIDE
-TCD1,1,1,18.01,Europe,ABIDE
-TCD1,1,1,19.41,Europe,ABIDE
-TCD1,1,1,14.41,Europe,ABIDE
-TCD1,2,1,14.91,Europe,ABIDE
-TCD1,2,1,19.83,Europe,ABIDE
-TCD1,2,1,20.33,Europe,ABIDE
-TCD1,2,1,20.08,Europe,ABIDE
-TCD1,2,1,21.33,Europe,ABIDE
-TCD1,2,1,19.08,Europe,ABIDE
-TCD1,2,1,25.66,Europe,ABIDE
-TCD1,2,1,12.25,Europe,ABIDE
-TCD1,2,1,15.91,Europe,ABIDE
-TCD1,2,1,17.5,Europe,ABIDE
-TCD1,2,1,14.41,Europe,ABIDE
-TCD1,2,1,14.66,Europe,ABIDE
-TCD1,2,1,19.33,Europe,ABIDE
-TCD1,2,1,19.66,Europe,ABIDE
-TCD1,2,1,24.83,Europe,ABIDE
-TCD1,2,1,12.04,Europe,ABIDE
-TCD1,2,1,16.83,Europe,ABIDE
-TCD1,2,1,13.75,Europe,ABIDE
-TCD1,2,1,12.66,Europe,ABIDE
-TCD1,2,1,13.25,Europe,ABIDE
-TCD1,2,1,12.66,Europe,ABIDE
-TCD1,2,1,19.5,Europe,ABIDE
-TCD1,2,1,15.75,Europe,ABIDE
-TCD1,2,1,15.91,Europe,ABIDE
-TCD1,2,1,14.91,Europe,ABIDE
-UCLA1,1,1,13.52,North America,ABIDE
-UCLA1,1,1,11.56,North America,ABIDE
-UCLA1,1,1,13.37,North America,ABIDE
-UCLA1,1,1,14.57,North America,ABIDE
-UCLA1,1,1,17.94,North America,ABIDE
-UCLA1,1,1,15.78,North America,ABIDE
-UCLA1,1,2,14.11,North America,ABIDE
-UCLA1,1,1,16.98,North America,ABIDE
-UCLA1,1,1,9.99,North America,ABIDE
-UCLA1,1,1,16.56,North America,ABIDE
-UCLA1,1,1,11.27,North America,ABIDE
-UCLA1,1,1,15.66,North America,ABIDE
-UCLA1,1,1,9.11,North America,ABIDE
-UCLA1,1,1,10.41,North America,ABIDE
-UCLA1,1,2,11.56,North America,ABIDE
-UCLA1,1,1,10.54,North America,ABIDE
-UCLA1,1,1,15.22,North America,ABIDE
-UCLA1,1,1,16.87,North America,ABIDE
-UCLA1,1,2,13.93,North America,ABIDE
-UCLA1,1,1,14.74,North America,ABIDE
-UCLA1,1,1,14.58,North America,ABIDE
-UCLA1,1,1,11.81,North America,ABIDE
-UCLA1,1,1,13.31,North America,ABIDE
-UCLA1,1,1,12.99,North America,ABIDE
-UCLA1,1,1,12.33,North America,ABIDE
-UCLA1,1,2,9.26,North America,ABIDE
-UCLA1,1,1,14.53,North America,ABIDE
-UCLA1,1,2,8.36,North America,ABIDE
-UCLA1,1,1,14.59,North America,ABIDE
-UCLA1,1,2,17.53,North America,ABIDE
-UCLA1,1,1,10.28,North America,ABIDE
-UCLA1,1,1,15.79,North America,ABIDE
-UCLA1,1,1,12.75,North America,ABIDE
-UCLA1,1,1,10.91,North America,ABIDE
-UCLA1,1,1,10.67,North America,ABIDE
-UCLA1,1,1,12.42,North America,ABIDE
-UCLA1,1,1,17.4,North America,ABIDE
-UCLA1,1,1,10.85,North America,ABIDE
-UCLA1,1,1,13.67,North America,ABIDE
-UCLA1,1,1,14.96,North America,ABIDE
-UCLA1,1,1,10.9,North America,ABIDE
-UCLA1,1,2,14.14,North America,ABIDE
-UCLA1,1,1,11.69,North America,ABIDE
-UCLA1,1,1,13.09,North America,ABIDE
-UCLA1,1,1,14.98,North America,ABIDE
-UCLA1,1,1,13.1,North America,ABIDE
-UCLA1,1,1,11.97,North America,ABIDE
-UCLA1,1,1,13.5,North America,ABIDE
-UCLA1,1,1,8.49,North America,ABIDE
-UCLA1,2,1,14.88,North America,ABIDE
-UCLA1,2,1,12.36,North America,ABIDE
-UCLA1,2,1,10.99,North America,ABIDE
-UCLA1,2,1,11.8,North America,ABIDE
-UCLA1,2,1,14.44,North America,ABIDE
-UCLA1,2,1,14.8,North America,ABIDE
-UCLA1,2,1,15.04,North America,ABIDE
-UCLA1,2,1,13.38,North America,ABIDE
-UCLA1,2,1,11.55,North America,ABIDE
-UCLA1,2,1,11.07,North America,ABIDE
-UCLA1,2,1,13.66,North America,ABIDE
-UCLA1,2,1,17.79,North America,ABIDE
-UCLA1,2,1,11.56,North America,ABIDE
-UCLA1,2,1,16.03,North America,ABIDE
-UCLA1,2,2,13.46,North America,ABIDE
-UCLA1,2,1,15.92,North America,ABIDE
-UCLA1,2,1,14.03,North America,ABIDE
-UCLA1,2,2,11.25,North America,ABIDE
-UCLA1,2,1,17.78,North America,ABIDE
-UCLA1,2,1,14.29,North America,ABIDE
-UCLA1,2,1,11.08,North America,ABIDE
-UCLA1,2,1,12.09,North America,ABIDE
-UCLA1,2,1,13.41,North America,ABIDE
-UCLA1,2,1,12.68,North America,ABIDE
-UCLA1,2,1,10.96,North America,ABIDE
-UCLA1,2,1,15.74,North America,ABIDE
-UCLA1,2,1,13.85,North America,ABIDE
-UCLA1,2,1,12.01,North America,ABIDE
-UCLA1,2,1,9.21,North America,ABIDE
-UCLA1,2,2,13.82,North America,ABIDE
-UCLA1,2,1,9.5,North America,ABIDE
-UCLA1,2,1,11.83,North America,ABIDE
-UCLA1,2,2,12.73,North America,ABIDE
-UCLA2,1,1,16.47,North America,ABIDE
-UCLA2,1,1,12.24,North America,ABIDE
-UCLA2,1,1,13.08,North America,ABIDE
-UCLA2,1,1,11.7,North America,ABIDE
-UCLA2,1,1,10.04,North America,ABIDE
-UCLA2,1,1,11.16,North America,ABIDE
-UCLA2,1,1,14.27,North America,ABIDE
-UCLA2,1,1,10.57,North America,ABIDE
-UCLA2,1,1,14.77,North America,ABIDE
-UCLA2,1,1,14.08,North America,ABIDE
-UCLA2,1,1,13.28,North America,ABIDE
-UCLA2,1,1,10.85,North America,ABIDE
-UCLA2,2,2,13,North America,ABIDE
-UCLA2,2,1,10.53,North America,ABIDE
-UCLA2,2,2,12.64,North America,ABIDE
-UCLA2,2,1,11.66,North America,ABIDE
-UCLA2,2,1,12.15,North America,ABIDE
-UCLA2,2,1,9.79,North America,ABIDE
-UCLA2,2,1,11.9,North America,ABIDE
-UCLA2,2,1,11.7,North America,ABIDE
-UCLA2,2,1,11.95,North America,ABIDE
-UCLA2,2,1,12.9,North America,ABIDE
-UCLA2,2,1,13.36,North America,ABIDE
-UCLA2,2,1,13.12,North America,ABIDE
-UCLA2,2,1,13.63,North America,ABIDE
-UCLA2,2,1,12.66,North America,ABIDE
-UCLA2,1,1,12.82,North America,ABIDE
+OHS1,1,1,13.99,North America,ABIDE
+OHS1,1,1,13.79,North America,ABIDE
+OHS1,1,1,10.22,North America,ABIDE
+OHS1,1,1,10.75,North America,ABIDE
+OHS1,1,1,8,North America,ABIDE
+OHS1,1,1,11.35,North America,ABIDE
+OHS1,1,1,12.65,North America,ABIDE
+OHS1,1,1,12.32,North America,ABIDE
+OHS1,1,1,9.42,North America,ABIDE
+OHS1,1,1,9.73,North America,ABIDE
+OHS1,1,1,9.72,North America,ABIDE
+OHS1,1,1,14.42,North America,ABIDE
+OHS1,1,1,15.23,North America,ABIDE
+OHS1,2,1,10.5,North America,ABIDE
+OHS1,2,1,11.55,North America,ABIDE
+OHS1,2,1,10.29,North America,ABIDE
+OHS1,2,1,11.45,North America,ABIDE
+OHS1,2,1,9.15,North America,ABIDE
+OHS1,2,1,8.94,North America,ABIDE
+OHS1,2,1,9.4,North America,ABIDE
+OHS1,2,1,8.86,North America,ABIDE
+OHS1,2,1,9.69,North America,ABIDE
+OHS1,2,1,8.2,North America,ABIDE
+OHS1,2,1,10.08,North America,ABIDE
+OHS1,2,1,9.69,North America,ABIDE
+OHS1,2,1,11.99,North America,ABIDE
+OHS1,2,1,10.53,North America,ABIDE
+OHS1,2,1,10.64,North America,ABIDE
+OIL1,1,1,12,North America,ABIDE
+OIL1,1,1,12,North America,ABIDE
+OIL1,1,1,12,North America,ABIDE
+OIL1,1,1,15,North America,ABIDE
+OIL1,1,1,17,North America,ABIDE
+OIL1,1,1,19,North America,ABIDE
+OIL1,1,1,18,North America,ABIDE
+OIL1,1,1,17,North America,ABIDE
+OIL1,1,1,18,North America,ABIDE
+OIL1,1,1,11,North America,ABIDE
+OIL1,1,1,20,North America,ABIDE
+OIL1,1,1,20,North America,ABIDE
+OIL1,1,1,15,North America,ABIDE
+OIL1,1,1,16,North America,ABIDE
+OIL1,1,1,16,North America,ABIDE
+OIL1,1,2,14,North America,ABIDE
+OIL1,1,2,24,North America,ABIDE
+OIL1,1,1,18,North America,ABIDE
+OIL1,1,2,19,North America,ABIDE
+OIL1,1,1,21,North America,ABIDE
+OIL1,2,1,17,North America,ABIDE
+OIL1,2,1,15,North America,ABIDE
+OIL1,2,2,15,North America,ABIDE
+OIL1,2,1,16,North America,ABIDE
+OIL1,2,1,14,North America,ABIDE
+OIL1,2,1,14,North America,ABIDE
+OIL1,2,1,20,North America,ABIDE
+OIL1,2,1,14,North America,ABIDE
+OIL1,2,1,21,North America,ABIDE
+OIL1,2,1,23,North America,ABIDE
+OIL1,2,1,13,North America,ABIDE
+OIL1,2,2,20,North America,ABIDE
+OIL1,2,1,10,North America,ABIDE
+OIL1,2,1,21,North America,ABIDE
+OIL1,2,1,17,North America,ABIDE
+OIL1,2,1,21,North America,ABIDE
+PIT1,1,1,16.77,North America,ABIDE
+PIT1,1,1,24.45,North America,ABIDE
+PIT1,1,1,19.09,North America,ABIDE
+PIT1,1,2,13.73,North America,ABIDE
+PIT1,1,1,13.37,North America,ABIDE
+PIT1,1,1,17.78,North America,ABIDE
+PIT1,1,1,32.45,North America,ABIDE
+PIT1,1,1,33.86,North America,ABIDE
+PIT1,1,1,35.2,North America,ABIDE
+PIT1,1,1,16.93,North America,ABIDE
+PIT1,1,1,21.48,North America,ABIDE
+PIT1,1,1,9.33,North America,ABIDE
+PIT1,1,1,14.2,North America,ABIDE
+PIT1,1,1,14.2,North America,ABIDE
+PIT1,1,1,21.82,North America,ABIDE
+PIT1,1,1,22.7,North America,ABIDE
+PIT1,1,1,27.81,North America,ABIDE
+PIT1,1,1,20.83,North America,ABIDE
+PIT1,1,1,16.99,North America,ABIDE
+PIT1,1,2,12.64,North America,ABIDE
+PIT1,1,1,22.64,North America,ABIDE
+PIT1,1,1,31.72,North America,ABIDE
+PIT1,1,1,16.28,North America,ABIDE
+PIT1,1,1,12.24,North America,ABIDE
+PIT1,1,1,12.74,North America,ABIDE
+PIT1,1,2,11.4,North America,ABIDE
+PIT1,1,1,12.03,North America,ABIDE
+PIT1,1,1,16.99,North America,ABIDE
+PIT1,1,1,13.59,North America,ABIDE
+PIT1,1,2,12.62,North America,ABIDE
+PIT1,2,1,25.12,North America,ABIDE
+PIT1,2,1,12.92,North America,ABIDE
+PIT1,2,1,19.8,North America,ABIDE
+PIT1,2,1,12.15,North America,ABIDE
+PIT1,2,1,14.77,North America,ABIDE
+PIT1,2,1,17.36,North America,ABIDE
+PIT1,2,2,13.28,North America,ABIDE
+PIT1,2,1,19.16,North America,ABIDE
+PIT1,2,2,13.95,North America,ABIDE
+PIT1,2,1,30.66,North America,ABIDE
+PIT1,2,1,24.6,North America,ABIDE
+PIT1,2,1,27.92,North America,ABIDE
+PIT1,2,1,33.17,North America,ABIDE
+PIT1,2,1,13.78,North America,ABIDE
+PIT1,2,1,17.13,North America,ABIDE
+PIT1,2,1,15.7,North America,ABIDE
+PIT1,2,1,20.65,North America,ABIDE
+PIT1,2,1,15.35,North America,ABIDE
+PIT1,2,1,11.81,North America,ABIDE
+PIT1,2,2,15.82,North America,ABIDE
+PIT1,2,1,14.37,North America,ABIDE
+PIT1,2,1,12.83,North America,ABIDE
+PIT1,2,1,33.24,North America,ABIDE
+PIT1,2,1,9.44,North America,ABIDE
+PIT1,2,1,23.1,North America,ABIDE
+PIT1,2,2,21.22,North America,ABIDE
+PIT1,2,1,20.34,North America,ABIDE
+SDS1,1,1,16.61,North America,ABIDE
+SDS1,1,1,14.14,North America,ABIDE
+SDS1,1,1,17.15,North America,ABIDE
+SDS1,1,2,12.44,North America,ABIDE
+SDS1,1,1,12.13,North America,ABIDE
+SDS1,1,1,16.48,North America,ABIDE
+SDS1,1,1,15.4,North America,ABIDE
+SDS1,1,1,16.64,North America,ABIDE
+SDS1,1,1,13.99,North America,ABIDE
+SDS1,1,1,12.63,North America,ABIDE
+SDS1,1,1,12.99,North America,ABIDE
+SDS1,2,1,14.75,North America,ABIDE
+SDS1,2,1,13.35,North America,ABIDE
+SDS1,2,1,12.58,North America,ABIDE
+SDS1,2,1,12.91,North America,ABIDE
+SDS1,2,1,14.98,North America,ABIDE
+SDS1,2,1,15.28,North America,ABIDE
+SDS1,2,1,15.53,North America,ABIDE
+SDS1,2,1,13.88,North America,ABIDE
+SDS1,2,2,13.77,North America,ABIDE
+SDS1,2,1,12.08,North America,ABIDE
+SDS1,2,1,16.05,North America,ABIDE
+SDS1,2,1,14.86,North America,ABIDE
+SDS1,2,2,14.1,North America,ABIDE
+SDS1,2,2,8.67,North America,ABIDE
+SDS1,1,1,16.06,North America,ABIDE
+SDS1,2,2,13.78,North America,ABIDE
+SDS1,2,1,16.57,North America,ABIDE
+SDS1,2,1,16.6,North America,ABIDE
+SDS1,2,1,16.13,North America,ABIDE
+SDS1,1,1,13.81,North America,ABIDE
+SDS1,2,2,12.38,North America,ABIDE
+SDS1,2,1,14.76,North America,ABIDE
+SDS1,2,2,16.88,North America,ABIDE
+SDS1,1,1,15.6,North America,ABIDE
+SDS1,2,1,12.9,North America,ABIDE
+STA1,1,1,7.9336,North America,ABIDE
+STA1,1,1,9.0301,North America,ABIDE
+STA1,1,2,8.9199,North America,ABIDE
+STA1,1,1,9.0821,North America,ABIDE
+STA1,1,2,8.4216,North America,ABIDE
+STA1,1,1,11.8433,North America,ABIDE
+STA1,1,1,8.3833,North America,ABIDE
+STA1,1,2,11.8789,North America,ABIDE
+STA1,1,1,11.2628,North America,ABIDE
+STA1,1,1,9.7775,North America,ABIDE
+STA1,1,2,10.8652,North America,ABIDE
+STA1,1,1,12.9363,North America,ABIDE
+STA1,1,1,8.7912,North America,ABIDE
+STA1,1,1,7.5284,North America,ABIDE
+STA1,1,1,9.9473,North America,ABIDE
+STA1,1,1,8.5804,North America,ABIDE
+STA1,1,1,9.271,North America,ABIDE
+STA1,1,1,11.6982,North America,ABIDE
+STA1,1,1,11.4326,North America,ABIDE
+STA1,1,1,11.6543,North America,ABIDE
+STA1,2,2,7.7502,North America,ABIDE
+STA1,2,1,9.3149,North America,ABIDE
+STA1,2,1,10.6927,North America,ABIDE
+STA1,2,1,8.2656,North America,ABIDE
+STA1,2,2,9.1068,North America,ABIDE
+STA1,2,1,8.2464,North America,ABIDE
+STA1,2,1,8.3203,North America,ABIDE
+STA1,2,1,8.3313,North America,ABIDE
+STA1,2,2,8.9747,North America,ABIDE
+STA1,2,1,9.2081,North America,ABIDE
+STA1,2,1,8.9363,North America,ABIDE
+STA1,2,1,9.7201,North America,ABIDE
+STA1,2,2,10.2218,North America,ABIDE
+STA1,2,1,9.5202,North America,ABIDE
+STA1,2,1,12.3477,North America,ABIDE
+STA1,2,1,11.178,North America,ABIDE
+STA1,2,1,11.8816,North America,ABIDE
+STA1,2,1,12.4298,North America,ABIDE
+STA1,2,1,12.2546,North America,ABIDE
+STA1,2,1,12.3833,North America,ABIDE
+UCL1,1,1,13.52,North America,ABIDE
+UCL1,1,1,11.56,North America,ABIDE
+UCL1,1,1,13.37,North America,ABIDE
+UCL1,1,1,14.57,North America,ABIDE
+UCL1,1,1,17.94,North America,ABIDE
+UCL1,1,1,15.78,North America,ABIDE
+UCL1,1,2,14.11,North America,ABIDE
+UCL1,1,1,16.98,North America,ABIDE
+UCL1,1,1,9.99,North America,ABIDE
+UCL1,1,1,16.56,North America,ABIDE
+UCL1,1,1,11.27,North America,ABIDE
+UCL1,1,1,15.66,North America,ABIDE
+UCL1,1,1,9.11,North America,ABIDE
+UCL1,1,1,10.41,North America,ABIDE
+UCL1,1,2,11.56,North America,ABIDE
+UCL1,1,1,10.54,North America,ABIDE
+UCL1,1,1,15.22,North America,ABIDE
+UCL1,1,1,16.87,North America,ABIDE
+UCL1,1,2,13.93,North America,ABIDE
+UCL1,1,1,14.74,North America,ABIDE
+UCL1,1,1,14.58,North America,ABIDE
+UCL1,1,1,11.81,North America,ABIDE
+UCL1,1,1,13.31,North America,ABIDE
+UCL1,1,1,12.99,North America,ABIDE
+UCL1,1,1,12.33,North America,ABIDE
+UCL1,1,2,9.26,North America,ABIDE
+UCL1,1,1,14.53,North America,ABIDE
+UCL1,1,2,8.36,North America,ABIDE
+UCL1,1,1,14.59,North America,ABIDE
+UCL1,1,2,17.53,North America,ABIDE
+UCL1,1,1,10.28,North America,ABIDE
+UCL1,1,1,15.79,North America,ABIDE
+UCL1,1,1,12.75,North America,ABIDE
+UCL1,1,1,10.91,North America,ABIDE
+UCL1,1,1,10.67,North America,ABIDE
+UCL1,1,1,12.42,North America,ABIDE
+UCL1,1,1,17.4,North America,ABIDE
+UCL1,1,1,10.85,North America,ABIDE
+UCL1,1,1,13.67,North America,ABIDE
+UCL1,1,1,14.96,North America,ABIDE
+UCL1,1,1,10.9,North America,ABIDE
+UCL1,1,2,14.14,North America,ABIDE
+UCL1,1,1,11.69,North America,ABIDE
+UCL1,1,1,13.09,North America,ABIDE
+UCL1,1,1,14.98,North America,ABIDE
+UCL1,1,1,13.1,North America,ABIDE
+UCL1,1,1,11.97,North America,ABIDE
+UCL1,1,1,13.5,North America,ABIDE
+UCL1,1,1,8.49,North America,ABIDE
+UCL1,2,1,14.88,North America,ABIDE
+UCL1,2,1,12.36,North America,ABIDE
+UCL1,2,1,10.99,North America,ABIDE
+UCL1,2,1,11.8,North America,ABIDE
+UCL1,2,1,14.44,North America,ABIDE
+UCL1,2,1,14.8,North America,ABIDE
+UCL1,2,1,15.04,North America,ABIDE
+UCL1,2,1,13.38,North America,ABIDE
+UCL1,2,1,11.55,North America,ABIDE
+UCL1,2,1,11.07,North America,ABIDE
+UCL1,2,1,13.66,North America,ABIDE
+UCL1,2,1,17.79,North America,ABIDE
+UCL1,2,1,11.56,North America,ABIDE
+UCL1,2,1,16.03,North America,ABIDE
+UCL1,2,2,13.46,North America,ABIDE
+UCL1,2,1,15.92,North America,ABIDE
+UCL1,2,1,14.03,North America,ABIDE
+UCL1,2,2,11.25,North America,ABIDE
+UCL1,2,1,17.78,North America,ABIDE
+UCL1,2,1,14.29,North America,ABIDE
+UCL1,2,1,11.08,North America,ABIDE
+UCL1,2,1,12.09,North America,ABIDE
+UCL1,2,1,13.41,North America,ABIDE
+UCL1,2,1,12.68,North America,ABIDE
+UCL1,2,1,10.96,North America,ABIDE
+UCL1,2,1,15.74,North America,ABIDE
+UCL1,2,1,13.85,North America,ABIDE
+UCL1,2,1,12.01,North America,ABIDE
+UCL1,2,1,9.21,North America,ABIDE
+UCL1,2,2,13.82,North America,ABIDE
+UCL1,2,1,9.5,North America,ABIDE
+UCL1,2,1,11.83,North America,ABIDE
+UCL1,2,2,12.73,North America,ABIDE
+UCL2,1,1,16.47,North America,ABIDE
+UCL2,1,1,12.24,North America,ABIDE
+UCL2,1,1,13.08,North America,ABIDE
+UCL2,1,1,11.7,North America,ABIDE
+UCL2,1,1,10.04,North America,ABIDE
+UCL2,1,1,11.16,North America,ABIDE
+UCL2,1,1,14.27,North America,ABIDE
+UCL2,1,1,10.57,North America,ABIDE
+UCL2,1,1,14.77,North America,ABIDE
+UCL2,1,1,14.08,North America,ABIDE
+UCL2,1,1,13.28,North America,ABIDE
+UCL2,1,1,10.85,North America,ABIDE
+UCL2,2,2,13,North America,ABIDE
+UCL2,2,1,10.53,North America,ABIDE
+UCL2,2,2,12.64,North America,ABIDE
+UCL2,2,1,11.66,North America,ABIDE
+UCL2,2,1,12.15,North America,ABIDE
+UCL2,2,1,9.79,North America,ABIDE
+UCL2,2,1,11.9,North America,ABIDE
+UCL2,2,1,11.7,North America,ABIDE
+UCL2,2,1,11.95,North America,ABIDE
+UCL2,2,1,12.9,North America,ABIDE
+UCL2,2,1,13.36,North America,ABIDE
+UCL2,2,1,13.12,North America,ABIDE
+UCL2,2,1,13.63,North America,ABIDE
+UCL2,2,1,12.66,North America,ABIDE
+UCL2,1,1,12.82,North America,ABIDE
 UM1,1,1,14.2,North America,ABIDE
 UM1,1,1,16.8,North America,ABIDE
 UM1,1,1,14.2,North America,ABIDE
@@ -1055,120 +947,62 @@ USM1,1,1,42.3354,North America,ABIDE
 USM1,1,1,18.245,North America,ABIDE
 USM1,1,1,28.0903,North America,ABIDE
 USM1,1,1,16.9199,North America,ABIDE
-YALE1,2,1,15.92,North America,ABIDE
-YALE1,2,1,12.75,North America,ABIDE
-YALE1,2,1,9.75,North America,ABIDE
-YALE1,2,1,8.67,North America,ABIDE
-YALE1,2,2,14.42,North America,ABIDE
-YALE1,2,1,10.67,North America,ABIDE
-YALE1,2,2,14.25,North America,ABIDE
-YALE1,2,2,13.75,North America,ABIDE
-YALE1,2,1,12.25,North America,ABIDE
-YALE1,2,1,9.25,North America,ABIDE
-YALE1,2,1,13.33,North America,ABIDE
-YALE1,2,1,10.83,North America,ABIDE
-YALE1,2,2,13.92,North America,ABIDE
-YALE1,2,1,7.66,North America,ABIDE
-YALE1,2,2,11,North America,ABIDE
-YALE1,2,1,9.66,North America,ABIDE
-YALE1,2,1,17.83,North America,ABIDE
-YALE1,2,1,13.92,North America,ABIDE
-YALE1,2,2,16.66,North America,ABIDE
-YALE1,2,1,16.66,North America,ABIDE
-YALE1,2,1,11,North America,ABIDE
-YALE1,2,2,15.75,North America,ABIDE
-YALE1,2,1,14.17,North America,ABIDE
-YALE1,2,1,10.92,North America,ABIDE
-YALE1,2,1,14,North America,ABIDE
-YALE1,2,2,8.42,North America,ABIDE
-YALE1,2,1,15.25,North America,ABIDE
-YALE1,2,1,12.33,North America,ABIDE
-YALE1,1,1,14.33,North America,ABIDE
-YALE1,1,1,10,North America,ABIDE
-YALE1,1,1,13.25,North America,ABIDE
-YALE1,1,2,14.42,North America,ABIDE
-YALE1,1,1,16,North America,ABIDE
-YALE1,1,1,16.42,North America,ABIDE
-YALE1,1,1,17.17,North America,ABIDE
-YALE1,1,1,16.58,North America,ABIDE
-YALE1,1,1,8.92,North America,ABIDE
-YALE1,1,1,13,North America,ABIDE
-YALE1,1,1,11.92,North America,ABIDE
-YALE1,1,1,11.83,North America,ABIDE
-YALE1,1,1,12.5,North America,ABIDE
-YALE1,1,1,17.75,North America,ABIDE
-YALE1,1,2,8.58,North America,ABIDE
-YALE1,1,1,11.83,North America,ABIDE
-YALE1,1,1,7.25,North America,ABIDE
-YALE1,1,1,12.75,North America,ABIDE
-YALE1,1,2,16.5,North America,ABIDE
-YALE1,1,2,12.75,North America,ABIDE
-YALE1,1,2,16.58,North America,ABIDE
-YALE1,1,1,9.92,North America,ABIDE
-YALE1,1,2,13.66,North America,ABIDE
-YALE1,1,2,11.08,North America,ABIDE
-YALE1,1,1,7,North America,ABIDE
-YALE1,1,1,11.08,North America,ABIDE
-YALE1,1,2,9.5,North America,ABIDE
-YALE1,1,1,14.42,North America,ABIDE
-BNI1,1,1,48,North America,ABIDE
-BNI1,1,1,41,North America,ABIDE
-BNI1,1,1,59,North America,ABIDE
-BNI1,1,1,57,North America,ABIDE
-BNI1,1,1,45,North America,ABIDE
-BNI1,1,1,62,North America,ABIDE
-BNI1,1,1,51,North America,ABIDE
-BNI1,1,1,47,North America,ABIDE
-BNI1,1,1,55,North America,ABIDE
-BNI1,1,1,57,North America,ABIDE
-BNI1,1,1,54,North America,ABIDE
-BNI1,1,1,45,North America,ABIDE
-BNI1,1,1,21,North America,ABIDE
-BNI1,1,1,20,North America,ABIDE
-BNI1,1,1,18,North America,ABIDE
-BNI1,1,1,21,North America,ABIDE
-BNI1,1,1,19,North America,ABIDE
-BNI1,1,1,19,North America,ABIDE
-BNI1,1,1,19,North America,ABIDE
-BNI1,1,1,25,North America,ABIDE
-BNI1,1,1,53,North America,ABIDE
-BNI1,1,1,18,North America,ABIDE
-BNI1,1,1,40,North America,ABIDE
-BNI1,1,1,24,North America,ABIDE
-BNI1,1,1,22,North America,ABIDE
-BNI1,1,1,22,North America,ABIDE
-BNI1,1,1,55,North America,ABIDE
-BNI1,1,1,47,North America,ABIDE
-BNI1,1,1,22,North America,ABIDE
-BNI1,2,1,48,North America,ABIDE
-BNI1,2,1,64,North America,ABIDE
-BNI1,2,1,41,North America,ABIDE
-BNI1,2,1,51,North America,ABIDE
-BNI1,2,1,62,North America,ABIDE
-BNI1,2,1,46,North America,ABIDE
-BNI1,2,1,43,North America,ABIDE
-BNI1,2,1,40,North America,ABIDE
-BNI1,2,1,46,North America,ABIDE
-BNI1,2,1,60,North America,ABIDE
-BNI1,2,1,20,North America,ABIDE
-BNI1,2,1,54,North America,ABIDE
-BNI1,2,1,21,North America,ABIDE
-BNI1,2,1,22,North America,ABIDE
-BNI1,2,1,56,North America,ABIDE
-BNI1,2,1,21,North America,ABIDE
-BNI1,2,1,49,North America,ABIDE
-BNI1,2,1,19,North America,ABIDE
-BNI1,2,1,48,North America,ABIDE
-BNI1,2,1,55,North America,ABIDE
-BNI1,2,1,25,North America,ABIDE
-BNI1,2,1,47,North America,ABIDE
-BNI1,2,1,18,North America,ABIDE
-BNI1,2,1,19,North America,ABIDE
-BNI1,2,1,43,North America,ABIDE
-BNI1,2,1,18,North America,ABIDE
-BNI1,2,1,44,North America,ABIDE
-BNI1,2,1,25,North America,ABIDE
-BNI1,2,1,43,North America,ABIDE
+YAL1,2,1,15.92,North America,ABIDE
+YAL1,2,1,12.75,North America,ABIDE
+YAL1,2,1,9.75,North America,ABIDE
+YAL1,2,1,8.67,North America,ABIDE
+YAL1,2,2,14.42,North America,ABIDE
+YAL1,2,1,10.67,North America,ABIDE
+YAL1,2,2,14.25,North America,ABIDE
+YAL1,2,2,13.75,North America,ABIDE
+YAL1,2,1,12.25,North America,ABIDE
+YAL1,2,1,9.25,North America,ABIDE
+YAL1,2,1,13.33,North America,ABIDE
+YAL1,2,1,10.83,North America,ABIDE
+YAL1,2,2,13.92,North America,ABIDE
+YAL1,2,1,7.66,North America,ABIDE
+YAL1,2,2,11,North America,ABIDE
+YAL1,2,1,9.66,North America,ABIDE
+YAL1,2,1,17.83,North America,ABIDE
+YAL1,2,1,13.92,North America,ABIDE
+YAL1,2,2,16.66,North America,ABIDE
+YAL1,2,1,16.66,North America,ABIDE
+YAL1,2,1,11,North America,ABIDE
+YAL1,2,2,15.75,North America,ABIDE
+YAL1,2,1,14.17,North America,ABIDE
+YAL1,2,1,10.92,North America,ABIDE
+YAL1,2,1,14,North America,ABIDE
+YAL1,2,2,8.42,North America,ABIDE
+YAL1,2,1,15.25,North America,ABIDE
+YAL1,2,1,12.33,North America,ABIDE
+YAL1,1,1,14.33,North America,ABIDE
+YAL1,1,1,10,North America,ABIDE
+YAL1,1,1,13.25,North America,ABIDE
+YAL1,1,2,14.42,North America,ABIDE
+YAL1,1,1,16,North America,ABIDE
+YAL1,1,1,16.42,North America,ABIDE
+YAL1,1,1,17.17,North America,ABIDE
+YAL1,1,1,16.58,North America,ABIDE
+YAL1,1,1,8.92,North America,ABIDE
+YAL1,1,1,13,North America,ABIDE
+YAL1,1,1,11.92,North America,ABIDE
+YAL1,1,1,11.83,North America,ABIDE
+YAL1,1,1,12.5,North America,ABIDE
+YAL1,1,1,17.75,North America,ABIDE
+YAL1,1,2,8.58,North America,ABIDE
+YAL1,1,1,11.83,North America,ABIDE
+YAL1,1,1,7.25,North America,ABIDE
+YAL1,1,1,12.75,North America,ABIDE
+YAL1,1,2,16.5,North America,ABIDE
+YAL1,1,2,12.75,North America,ABIDE
+YAL1,1,2,16.58,North America,ABIDE
+YAL1,1,1,9.92,North America,ABIDE
+YAL1,1,2,13.66,North America,ABIDE
+YAL1,1,2,11.08,North America,ABIDE
+YAL1,1,1,7,North America,ABIDE
+YAL1,1,1,11.08,North America,ABIDE
+YAL1,1,2,9.5,North America,ABIDE
+YAL1,1,1,14.42,North America,ABIDE
 EMC1,1,1,9.013005,Europe,ABIDE
 EMC1,1,1,10.663929,Europe,ABIDE
 EMC1,1,1,8.720055,Europe,ABIDE
@@ -1223,43 +1057,6 @@ EMC1,2,1,8.062971,Europe,ABIDE
 EMC1,2,1,6.329911,Europe,ABIDE
 EMC1,2,1,7.129363,Europe,ABIDE
 EMC1,2,2,6.395619,Europe,ABIDE
-ETH1,1,1,27.25,Europe,ABIDE
-ETH1,1,1,22.08333333,Europe,ABIDE
-ETH1,1,1,24.58333333,Europe,ABIDE
-ETH1,1,1,20.16666667,Europe,ABIDE
-ETH1,1,1,20.16666667,Europe,ABIDE
-ETH1,1,1,14.75,Europe,ABIDE
-ETH1,1,1,15.41666667,Europe,ABIDE
-ETH1,1,1,18.91666667,Europe,ABIDE
-ETH1,1,1,19.66666667,Europe,ABIDE
-ETH1,1,1,21,Europe,ABIDE
-ETH1,1,1,18.5,Europe,ABIDE
-ETH1,1,1,22.33333333,Europe,ABIDE
-ETH1,1,1,22.5,Europe,ABIDE
-ETH1,2,1,18,Europe,ABIDE
-ETH1,2,1,13.83333333,Europe,ABIDE
-ETH1,2,1,16.5,Europe,ABIDE
-ETH1,2,1,21.25,Europe,ABIDE
-ETH1,2,1,21.66666667,Europe,ABIDE
-ETH1,2,1,24.08333333,Europe,ABIDE
-ETH1,2,1,23.16666667,Europe,ABIDE
-ETH1,2,1,23.91666667,Europe,ABIDE
-ETH1,2,1,22.66666667,Europe,ABIDE
-ETH1,2,1,25.08333333,Europe,ABIDE
-ETH1,2,1,19.58333333,Europe,ABIDE
-ETH1,2,1,22.25,Europe,ABIDE
-ETH1,2,1,30.66666667,Europe,ABIDE
-ETH1,2,1,28.08333333,Europe,ABIDE
-ETH1,2,1,25.66666667,Europe,ABIDE
-ETH1,2,1,27.75,Europe,ABIDE
-ETH1,2,1,29.5,Europe,ABIDE
-ETH1,2,1,27.83333333,Europe,ABIDE
-ETH1,2,1,29,Europe,ABIDE
-ETH1,2,1,29.41666667,Europe,ABIDE
-ETH1,2,1,26.41666667,Europe,ABIDE
-ETH1,2,1,27.41666667,Europe,ABIDE
-ETH1,2,1,20.16666667,Europe,ABIDE
-ETH1,2,1,19.25,Europe,ABIDE
 GU1,1,1,13.07671233,North America,ABIDE
 GU1,1,1,9.298630137,North America,ABIDE
 GU1,1,2,12.49041096,North America,ABIDE
@@ -1673,34 +1470,6 @@ KKI1,2,1,10.58630137,North America,ABIDE
 KKI1,2,1,12.60547945,North America,ABIDE
 KKI1,2,1,9.632876712,North America,ABIDE
 KKI1,2,2,8.846575342,North America,ABIDE
-KUL3,1,1,21,Europe,ABIDE
-KUL3,1,1,20,Europe,ABIDE
-KUL3,1,1,25,Europe,ABIDE
-KUL3,1,1,23,Europe,ABIDE
-KUL3,1,1,25,Europe,ABIDE
-KUL3,1,1,25,Europe,ABIDE
-KUL3,1,1,25,Europe,ABIDE
-KUL3,1,1,18,Europe,ABIDE
-KUL3,1,1,19,Europe,ABIDE
-KUL3,1,1,20,Europe,ABIDE
-KUL3,1,1,24,Europe,ABIDE
-KUL3,1,1,27,Europe,ABIDE
-KUL3,1,1,22,Europe,ABIDE
-KUL3,1,1,18,Europe,ABIDE
-KUL3,1,1,24,Europe,ABIDE
-KUL3,1,1,30,Europe,ABIDE
-KUL3,1,1,33,Europe,ABIDE
-KUL3,1,1,26,Europe,ABIDE
-KUL3,1,1,18,Europe,ABIDE
-KUL3,1,1,18,Europe,ABIDE
-KUL3,1,1,24,Europe,ABIDE
-KUL3,1,1,18,Europe,ABIDE
-KUL3,1,1,24,Europe,ABIDE
-KUL3,1,1,19,Europe,ABIDE
-KUL3,1,1,24,Europe,ABIDE
-KUL3,1,1,21,Europe,ABIDE
-KUL3,1,1,35,Europe,ABIDE
-KUL3,1,1,34,Europe,ABIDE
 NYU1,1,2,10,North America,ABIDE
 NYU1,1,1,13.63,North America,ABIDE
 NYU1,1,1,7.25,North America,ABIDE
@@ -1806,258 +1575,216 @@ NYU2,1,2,5.819,North America,ABIDE
 NYU2,1,1,5.295,North America,ABIDE
 NYU2,1,1,7.876,North America,ABIDE
 NYU2,1,1,5.951,North America,ABIDE
-OHSU1,1,1,14,North America,ABIDE
-OHSU1,1,1,12,North America,ABIDE
-OHSU1,1,1,9,North America,ABIDE
-OHSU1,1,1,11,North America,ABIDE
-OHSU1,1,1,13,North America,ABIDE
-OHSU1,1,1,13,North America,ABIDE
-OHSU1,1,1,13,North America,ABIDE
-OHSU1,1,1,13,North America,ABIDE
-OHSU1,1,2,7,North America,ABIDE
-OHSU1,1,1,12,North America,ABIDE
-OHSU1,1,1,9,North America,ABIDE
-OHSU1,1,1,14,North America,ABIDE
-OHSU1,1,1,15,North America,ABIDE
-OHSU1,1,1,11,North America,ABIDE
-OHSU1,1,1,7,North America,ABIDE
-OHSU1,1,1,14,North America,ABIDE
-OHSU1,1,2,15,North America,ABIDE
-OHSU1,1,1,10,North America,ABIDE
-OHSU1,1,1,12,North America,ABIDE
-OHSU1,1,1,15,North America,ABIDE
-OHSU1,1,1,12,North America,ABIDE
-OHSU1,1,2,10,North America,ABIDE
-OHSU1,1,1,10,North America,ABIDE
-OHSU1,1,1,14,North America,ABIDE
-OHSU1,1,1,13,North America,ABIDE
-OHSU1,1,1,13,North America,ABIDE
-OHSU1,1,2,8,North America,ABIDE
-OHSU1,1,1,14,North America,ABIDE
-OHSU1,1,1,11,North America,ABIDE
-OHSU1,1,1,14,North America,ABIDE
-OHSU1,1,1,14,North America,ABIDE
-OHSU1,1,2,11,North America,ABIDE
-OHSU1,1,1,13,North America,ABIDE
-OHSU1,1,1,8,North America,ABIDE
-OHSU1,1,2,12,North America,ABIDE
-OHSU1,1,1,9,North America,ABIDE
-OHSU1,1,2,12,North America,ABIDE
-OHSU1,2,2,11,North America,ABIDE
-OHSU1,2,2,10,North America,ABIDE
-OHSU1,2,2,11,North America,ABIDE
-OHSU1,2,2,9,North America,ABIDE
-OHSU1,2,2,10,North America,ABIDE
-OHSU1,2,1,12,North America,ABIDE
-OHSU1,2,2,10,North America,ABIDE
-OHSU1,2,1,13,North America,ABIDE
-OHSU1,2,2,10,North America,ABIDE
-OHSU1,2,2,13,North America,ABIDE
-OHSU1,2,1,10,North America,ABIDE
-OHSU1,2,1,9,North America,ABIDE
-OHSU1,2,1,11,North America,ABIDE
-OHSU1,2,1,9,North America,ABIDE
-OHSU1,2,1,9,North America,ABIDE
-OHSU1,2,1,9,North America,ABIDE
-OHSU1,2,1,8,North America,ABIDE
-OHSU1,2,2,9,North America,ABIDE
-OHSU1,2,2,9,North America,ABIDE
-OHSU1,2,1,12,North America,ABIDE
-OHSU1,2,1,10,North America,ABIDE
-OHSU1,2,2,11,North America,ABIDE
-OHSU1,2,2,9,North America,ABIDE
-OHSU1,2,1,8,North America,ABIDE
-OHSU1,2,1,9,North America,ABIDE
-OHSU1,2,2,8,North America,ABIDE
-OHSU1,2,1,11,North America,ABIDE
-OHSU1,2,1,8,North America,ABIDE
-OHSU1,2,1,9,North America,ABIDE
-OHSU1,2,1,12,North America,ABIDE
-OHSU1,2,1,12,North America,ABIDE
-OHSU1,2,1,8,North America,ABIDE
-OHSU1,2,2,12,North America,ABIDE
-OHSU1,2,1,10,North America,ABIDE
-OHSU1,2,2,11,North America,ABIDE
-OHSU1,2,1,11,North America,ABIDE
-OHSU1,2,1,10,North America,ABIDE
-OHSU1,2,2,10,North America,ABIDE
-OHSU1,2,2,9,North America,ABIDE
-OHSU1,2,1,14,North America,ABIDE
-OHSU1,2,1,12,North America,ABIDE
-OHSU1,2,2,13,North America,ABIDE
-OHSU1,2,2,10,North America,ABIDE
-OHSU1,2,2,13,North America,ABIDE
-OHSU1,2,1,9,North America,ABIDE
-OHSU1,2,2,11,North America,ABIDE
-OHSU1,2,2,8,North America,ABIDE
-OHSU1,2,1,13,North America,ABIDE
-OHSU1,2,1,11,North America,ABIDE
-OHSU1,2,2,10,North America,ABIDE
-OHSU1,2,2,11,North America,ABIDE
-OHSU1,2,2,8,North America,ABIDE
-OHSU1,2,2,10,North America,ABIDE
-OHSU1,2,2,12,North America,ABIDE
-OHSU1,2,2,10,North America,ABIDE
-OHSU1,2,2,14,North America,ABIDE
-OILH2,1,1,21,North America,ABIDE
-OILH2,1,1,21,North America,ABIDE
-OILH2,1,1,24,North America,ABIDE
-OILH2,1,2,24,North America,ABIDE
-OILH2,1,1,20,North America,ABIDE
-OILH2,1,2,23,North America,ABIDE
-OILH2,1,1,18,North America,ABIDE
-OILH2,1,1,19,North America,ABIDE
-OILH2,1,1,28,North America,ABIDE
-OILH2,1,1,19,North America,ABIDE
-OILH2,1,2,27,North America,ABIDE
-OILH2,1,1,21,North America,ABIDE
-OILH2,1,1,18,North America,ABIDE
-OILH2,1,1,24,North America,ABIDE
-OILH2,1,1,18,North America,ABIDE
-OILH2,1,1,25,North America,ABIDE
-OILH2,1,1,18,North America,ABIDE
-OILH2,1,1,19,North America,ABIDE
-OILH2,1,2,24,North America,ABIDE
-OILH2,1,1,19,North America,ABIDE
-OILH2,1,1,18,North America,ABIDE
-OILH2,1,1,19,North America,ABIDE
-OILH2,1,1,25,North America,ABIDE
-OILH2,1,1,31,North America,ABIDE
-OILH2,2,1,29,North America,ABIDE
-OILH2,2,2,19,North America,ABIDE
-OILH2,2,2,20,North America,ABIDE
-OILH2,2,1,19,North America,ABIDE
-OILH2,2,1,26,North America,ABIDE
-OILH2,2,2,28,North America,ABIDE
-OILH2,2,1,29,North America,ABIDE
-OILH2,2,1,26,North America,ABIDE
-OILH2,2,2,26,North America,ABIDE
-OILH2,2,1,23,North America,ABIDE
-OILH2,2,2,23,North America,ABIDE
-OILH2,2,1,25,North America,ABIDE
-OILH2,2,2,23,North America,ABIDE
-OILH2,2,2,22,North America,ABIDE
-OILH2,2,1,20,North America,ABIDE
-OILH2,2,2,18,North America,ABIDE
-OILH2,2,2,22,North America,ABIDE
-OILH2,2,1,23,North America,ABIDE
-OILH2,2,2,27,North America,ABIDE
-OILH2,2,1,19,North America,ABIDE
-OILH2,2,2,26,North America,ABIDE
-OILH2,2,1,30,North America,ABIDE
-OILH2,2,1,28,North America,ABIDE
-OILH2,2,2,30,North America,ABIDE
-OILH2,2,1,26,North America,ABIDE
-OILH2,2,2,24,North America,ABIDE
-OILH2,2,1,29,North America,ABIDE
-OILH2,2,1,20,North America,ABIDE
-OILH2,2,1,21,North America,ABIDE
-OILH2,2,1,21,North America,ABIDE
-OILH2,2,1,28,North America,ABIDE
-OILH2,2,2,24,North America,ABIDE
-OILH2,2,2,26,North America,ABIDE
-OILH2,2,1,22,North America,ABIDE
-OILH2,2,1,19,North America,ABIDE
-SDSU1,1,1,10.9,North America,ABIDE
-SDSU1,1,1,13.4,North America,ABIDE
-SDSU1,1,1,7.6,North America,ABIDE
-SDSU1,1,1,10.5,North America,ABIDE
-SDSU1,1,1,10.4,North America,ABIDE
-SDSU1,1,1,10.8,North America,ABIDE
-SDSU1,1,1,17,North America,ABIDE
-SDSU1,1,1,17.8,North America,ABIDE
-SDSU1,1,1,14.1,North America,ABIDE
-SDSU1,1,1,17.7,North America,ABIDE
-SDSU1,1,2,9.2,North America,ABIDE
-SDSU1,1,2,18,North America,ABIDE
-SDSU1,1,1,13.5,North America,ABIDE
-SDSU1,1,2,14,North America,ABIDE
-SDSU1,1,1,17.2,North America,ABIDE
-SDSU1,1,1,9.1,North America,ABIDE
-SDSU1,1,2,15.5,North America,ABIDE
-SDSU1,1,1,9.6,North America,ABIDE
-SDSU1,1,1,11.9,North America,ABIDE
-SDSU1,1,2,16.8,North America,ABIDE
-SDSU1,1,1,7.4,North America,ABIDE
-SDSU1,1,1,15.2,North America,ABIDE
-SDSU1,1,1,11,North America,ABIDE
-SDSU1,1,1,16.6,North America,ABIDE
-SDSU1,1,1,13.7,North America,ABIDE
-SDSU1,1,1,12.1,North America,ABIDE
-SDSU1,1,1,9.7,North America,ABIDE
-SDSU1,1,2,10.5,North America,ABIDE
-SDSU1,1,1,8,North America,ABIDE
-SDSU1,1,1,17.5,North America,ABIDE
-SDSU1,1,2,13.4,North America,ABIDE
-SDSU1,1,1,14.4,North America,ABIDE
-SDSU1,1,1,10.9,North America,ABIDE
-SDSU1,2,1,9.9,North America,ABIDE
-SDSU1,2,1,11,North America,ABIDE
-SDSU1,2,1,11,North America,ABIDE
-SDSU1,2,1,11.2,North America,ABIDE
-SDSU1,2,1,9.7,North America,ABIDE
-SDSU1,2,1,15.3,North America,ABIDE
-SDSU1,2,1,8.7,North America,ABIDE
-SDSU1,2,1,11.3,North America,ABIDE
-SDSU1,2,1,11.3,North America,ABIDE
-SDSU1,2,1,17.6,North America,ABIDE
-SDSU1,2,2,10.9,North America,ABIDE
-SDSU1,2,1,8.1,North America,ABIDE
-SDSU1,2,2,12.3,North America,ABIDE
-SDSU1,2,1,16.2,North America,ABIDE
-SDSU1,2,1,14,North America,ABIDE
-SDSU1,2,1,17.6,North America,ABIDE
-SDSU1,2,1,15,North America,ABIDE
-SDSU1,2,1,14.4,North America,ABIDE
-SDSU1,2,1,17.7,North America,ABIDE
-SDSU1,2,1,17.6,North America,ABIDE
-SDSU1,2,1,11.2,North America,ABIDE
-SDSU1,2,1,13,North America,ABIDE
-SDSU1,2,1,13,North America,ABIDE
-SDSU1,2,1,17.1,North America,ABIDE
-SDSU1,2,1,16.2,North America,ABIDE
-TCD1,1,1,15.5,Europe,ABIDE
-TCD1,1,1,13.5,Europe,ABIDE
-TCD1,1,1,10.25,Europe,ABIDE
-TCD1,1,1,10.75,Europe,ABIDE
-TCD1,1,1,18.75,Europe,ABIDE
-TCD1,1,1,14,Europe,ABIDE
-TCD1,1,1,13.75,Europe,ABIDE
-TCD1,1,1,14.75,Europe,ABIDE
-TCD1,1,1,19.25,Europe,ABIDE
-TCD1,1,1,19.25,Europe,ABIDE
-TCD1,1,1,17.75,Europe,ABIDE
-TCD1,1,1,18.5,Europe,ABIDE
-TCD1,1,1,14,Europe,ABIDE
-TCD1,1,1,12.5,Europe,ABIDE
-TCD1,1,1,12.25,Europe,ABIDE
-TCD1,1,1,14,Europe,ABIDE
-TCD1,1,1,10.75,Europe,ABIDE
-TCD1,1,1,12.75,Europe,ABIDE
-TCD1,1,1,18.75,Europe,ABIDE
-TCD1,1,1,19.5,Europe,ABIDE
-TCD1,1,1,10,Europe,ABIDE
-TCD1,2,1,19.25,Europe,ABIDE
-TCD1,2,1,12,Europe,ABIDE
-TCD1,2,1,12.5,Europe,ABIDE
-TCD1,2,1,15.25,Europe,ABIDE
-TCD1,2,1,15.5,Europe,ABIDE
-TCD1,2,1,14.25,Europe,ABIDE
-TCD1,2,1,13.5,Europe,ABIDE
-TCD1,2,1,15,Europe,ABIDE
-TCD1,2,1,13,Europe,ABIDE
-TCD1,2,1,10.25,Europe,ABIDE
-TCD1,2,1,19.75,Europe,ABIDE
-TCD1,2,1,20,Europe,ABIDE
-TCD1,2,1,17.5,Europe,ABIDE
-TCD1,2,1,18.75,Europe,ABIDE
-TCD1,2,1,16,Europe,ABIDE
-TCD1,2,1,13.5,Europe,ABIDE
-TCD1,2,1,19.5,Europe,ABIDE
-TCD1,2,1,11,Europe,ABIDE
-TCD1,2,1,18.75,Europe,ABIDE
-TCD1,2,1,19,Europe,ABIDE
-TCD1,2,1,13.5,Europe,ABIDE
+OHS1,1,1,14,North America,ABIDE
+OHS1,1,1,12,North America,ABIDE
+OHS1,1,1,9,North America,ABIDE
+OHS1,1,1,11,North America,ABIDE
+OHS1,1,1,13,North America,ABIDE
+OHS1,1,1,13,North America,ABIDE
+OHS1,1,1,13,North America,ABIDE
+OHS1,1,1,13,North America,ABIDE
+OHS1,1,2,7,North America,ABIDE
+OHS1,1,1,12,North America,ABIDE
+OHS1,1,1,9,North America,ABIDE
+OHS1,1,1,14,North America,ABIDE
+OHS1,1,1,15,North America,ABIDE
+OHS1,1,1,11,North America,ABIDE
+OHS1,1,1,7,North America,ABIDE
+OHS1,1,1,14,North America,ABIDE
+OHS1,1,2,15,North America,ABIDE
+OHS1,1,1,10,North America,ABIDE
+OHS1,1,1,12,North America,ABIDE
+OHS1,1,1,15,North America,ABIDE
+OHS1,1,1,12,North America,ABIDE
+OHS1,1,2,10,North America,ABIDE
+OHS1,1,1,10,North America,ABIDE
+OHS1,1,1,14,North America,ABIDE
+OHS1,1,1,13,North America,ABIDE
+OHS1,1,1,13,North America,ABIDE
+OHS1,1,2,8,North America,ABIDE
+OHS1,1,1,14,North America,ABIDE
+OHS1,1,1,11,North America,ABIDE
+OHS1,1,1,14,North America,ABIDE
+OHS1,1,1,14,North America,ABIDE
+OHS1,1,2,11,North America,ABIDE
+OHS1,1,1,13,North America,ABIDE
+OHS1,1,1,8,North America,ABIDE
+OHS1,1,2,12,North America,ABIDE
+OHS1,1,1,9,North America,ABIDE
+OHS1,1,2,12,North America,ABIDE
+OHS1,2,2,11,North America,ABIDE
+OHS1,2,2,10,North America,ABIDE
+OHS1,2,2,11,North America,ABIDE
+OHS1,2,2,9,North America,ABIDE
+OHS1,2,2,10,North America,ABIDE
+OHS1,2,1,12,North America,ABIDE
+OHS1,2,2,10,North America,ABIDE
+OHS1,2,1,13,North America,ABIDE
+OHS1,2,2,10,North America,ABIDE
+OHS1,2,2,13,North America,ABIDE
+OHS1,2,1,10,North America,ABIDE
+OHS1,2,1,9,North America,ABIDE
+OHS1,2,1,11,North America,ABIDE
+OHS1,2,1,9,North America,ABIDE
+OHS1,2,1,9,North America,ABIDE
+OHS1,2,1,9,North America,ABIDE
+OHS1,2,1,8,North America,ABIDE
+OHS1,2,2,9,North America,ABIDE
+OHS1,2,2,9,North America,ABIDE
+OHS1,2,1,12,North America,ABIDE
+OHS1,2,1,10,North America,ABIDE
+OHS1,2,2,11,North America,ABIDE
+OHS1,2,2,9,North America,ABIDE
+OHS1,2,1,8,North America,ABIDE
+OHS1,2,1,9,North America,ABIDE
+OHS1,2,2,8,North America,ABIDE
+OHS1,2,1,11,North America,ABIDE
+OHS1,2,1,8,North America,ABIDE
+OHS1,2,1,9,North America,ABIDE
+OHS1,2,1,12,North America,ABIDE
+OHS1,2,1,12,North America,ABIDE
+OHS1,2,1,8,North America,ABIDE
+OHS1,2,2,12,North America,ABIDE
+OHS1,2,1,10,North America,ABIDE
+OHS1,2,2,11,North America,ABIDE
+OHS1,2,1,11,North America,ABIDE
+OHS1,2,1,10,North America,ABIDE
+OHS1,2,2,10,North America,ABIDE
+OHS1,2,2,9,North America,ABIDE
+OHS1,2,1,14,North America,ABIDE
+OHS1,2,1,12,North America,ABIDE
+OHS1,2,2,13,North America,ABIDE
+OHS1,2,2,10,North America,ABIDE
+OHS1,2,2,13,North America,ABIDE
+OHS1,2,1,9,North America,ABIDE
+OHS1,2,2,11,North America,ABIDE
+OHS1,2,2,8,North America,ABIDE
+OHS1,2,1,13,North America,ABIDE
+OHS1,2,1,11,North America,ABIDE
+OHS1,2,2,10,North America,ABIDE
+OHS1,2,2,11,North America,ABIDE
+OHS1,2,2,8,North America,ABIDE
+OHS1,2,2,10,North America,ABIDE
+OHS1,2,2,12,North America,ABIDE
+OHS1,2,2,10,North America,ABIDE
+OHS1,2,2,14,North America,ABIDE
+OIL2,1,1,21,North America,ABIDE
+OIL2,1,1,21,North America,ABIDE
+OIL2,1,1,24,North America,ABIDE
+OIL2,1,2,24,North America,ABIDE
+OIL2,1,1,20,North America,ABIDE
+OIL2,1,2,23,North America,ABIDE
+OIL2,1,1,18,North America,ABIDE
+OIL2,1,1,19,North America,ABIDE
+OIL2,1,1,28,North America,ABIDE
+OIL2,1,1,19,North America,ABIDE
+OIL2,1,2,27,North America,ABIDE
+OIL2,1,1,21,North America,ABIDE
+OIL2,1,1,18,North America,ABIDE
+OIL2,1,1,24,North America,ABIDE
+OIL2,1,1,18,North America,ABIDE
+OIL2,1,1,25,North America,ABIDE
+OIL2,1,1,18,North America,ABIDE
+OIL2,1,1,19,North America,ABIDE
+OIL2,1,2,24,North America,ABIDE
+OIL2,1,1,19,North America,ABIDE
+OIL2,1,1,18,North America,ABIDE
+OIL2,1,1,19,North America,ABIDE
+OIL2,1,1,25,North America,ABIDE
+OIL2,1,1,31,North America,ABIDE
+OIL2,2,1,29,North America,ABIDE
+OIL2,2,2,19,North America,ABIDE
+OIL2,2,2,20,North America,ABIDE
+OIL2,2,1,19,North America,ABIDE
+OIL2,2,1,26,North America,ABIDE
+OIL2,2,2,28,North America,ABIDE
+OIL2,2,1,29,North America,ABIDE
+OIL2,2,1,26,North America,ABIDE
+OIL2,2,2,26,North America,ABIDE
+OIL2,2,1,23,North America,ABIDE
+OIL2,2,2,23,North America,ABIDE
+OIL2,2,1,25,North America,ABIDE
+OIL2,2,2,23,North America,ABIDE
+OIL2,2,2,22,North America,ABIDE
+OIL2,2,1,20,North America,ABIDE
+OIL2,2,2,18,North America,ABIDE
+OIL2,2,2,22,North America,ABIDE
+OIL2,2,1,23,North America,ABIDE
+OIL2,2,2,27,North America,ABIDE
+OIL2,2,1,19,North America,ABIDE
+OIL2,2,2,26,North America,ABIDE
+OIL2,2,1,30,North America,ABIDE
+OIL2,2,1,28,North America,ABIDE
+OIL2,2,2,30,North America,ABIDE
+OIL2,2,1,26,North America,ABIDE
+OIL2,2,2,24,North America,ABIDE
+OIL2,2,1,29,North America,ABIDE
+OIL2,2,1,20,North America,ABIDE
+OIL2,2,1,21,North America,ABIDE
+OIL2,2,1,21,North America,ABIDE
+OIL2,2,1,28,North America,ABIDE
+OIL2,2,2,24,North America,ABIDE
+OIL2,2,2,26,North America,ABIDE
+OIL2,2,1,22,North America,ABIDE
+OIL2,2,1,19,North America,ABIDE
+SDS1,1,1,10.9,North America,ABIDE
+SDS1,1,1,13.4,North America,ABIDE
+SDS1,1,1,7.6,North America,ABIDE
+SDS1,1,1,10.5,North America,ABIDE
+SDS1,1,1,10.4,North America,ABIDE
+SDS1,1,1,10.8,North America,ABIDE
+SDS1,1,1,17,North America,ABIDE
+SDS1,1,1,17.8,North America,ABIDE
+SDS1,1,1,14.1,North America,ABIDE
+SDS1,1,1,17.7,North America,ABIDE
+SDS1,1,2,9.2,North America,ABIDE
+SDS1,1,2,18,North America,ABIDE
+SDS1,1,1,13.5,North America,ABIDE
+SDS1,1,2,14,North America,ABIDE
+SDS1,1,1,17.2,North America,ABIDE
+SDS1,1,1,9.1,North America,ABIDE
+SDS1,1,2,15.5,North America,ABIDE
+SDS1,1,1,9.6,North America,ABIDE
+SDS1,1,1,11.9,North America,ABIDE
+SDS1,1,2,16.8,North America,ABIDE
+SDS1,1,1,7.4,North America,ABIDE
+SDS1,1,1,15.2,North America,ABIDE
+SDS1,1,1,11,North America,ABIDE
+SDS1,1,1,16.6,North America,ABIDE
+SDS1,1,1,13.7,North America,ABIDE
+SDS1,1,1,12.1,North America,ABIDE
+SDS1,1,1,9.7,North America,ABIDE
+SDS1,1,2,10.5,North America,ABIDE
+SDS1,1,1,8,North America,ABIDE
+SDS1,1,1,17.5,North America,ABIDE
+SDS1,1,2,13.4,North America,ABIDE
+SDS1,1,1,14.4,North America,ABIDE
+SDS1,1,1,10.9,North America,ABIDE
+SDS1,2,1,9.9,North America,ABIDE
+SDS1,2,1,11,North America,ABIDE
+SDS1,2,1,11,North America,ABIDE
+SDS1,2,1,11.2,North America,ABIDE
+SDS1,2,1,9.7,North America,ABIDE
+SDS1,2,1,15.3,North America,ABIDE
+SDS1,2,1,8.7,North America,ABIDE
+SDS1,2,1,11.3,North America,ABIDE
+SDS1,2,1,11.3,North America,ABIDE
+SDS1,2,1,17.6,North America,ABIDE
+SDS1,2,2,10.9,North America,ABIDE
+SDS1,2,1,8.1,North America,ABIDE
+SDS1,2,2,12.3,North America,ABIDE
+SDS1,2,1,16.2,North America,ABIDE
+SDS1,2,1,14,North America,ABIDE
+SDS1,2,1,17.6,North America,ABIDE
+SDS1,2,1,15,North America,ABIDE
+SDS1,2,1,14.4,North America,ABIDE
+SDS1,2,1,17.7,North America,ABIDE
+SDS1,2,1,17.6,North America,ABIDE
+SDS1,2,1,11.2,North America,ABIDE
+SDS1,2,1,13,North America,ABIDE
+SDS1,2,1,13,North America,ABIDE
+SDS1,2,1,17.1,North America,ABIDE
+SDS1,2,1,16.2,North America,ABIDE
 UCD1,1,2,14.33333333,North America,ABIDE
 UCD1,1,1,17.33333333,North America,ABIDE
 UCD1,1,2,13.75,North America,ABIDE
@@ -2090,66 +1817,66 @@ UCD1,2,1,12.25,North America,ABIDE
 UCD1,2,1,12.25,North America,ABIDE
 UCD1,2,1,14.08333333,North America,ABIDE
 UCD1,2,1,13.58333333,North America,ABIDE
-UCLA1,1,1,11.66666667,North America,ABIDE
-UCLA1,1,1,12.83333333,North America,ABIDE
-UCLA1,1,1,14.66666667,North America,ABIDE
-UCLA1,1,1,11.86,North America,ABIDE
-UCLA1,1,1,11.55,North America,ABIDE
-UCLA1,1,1,13.79,North America,ABIDE
-UCLA1,1,1,13.08,North America,ABIDE
-UCLA1,1,1,13.815,North America,ABIDE
-UCLA1,1,1,15.03,North America,ABIDE
-UCLA1,1,1,11.70157426,North America,ABIDE
-UCLA1,1,1,12.29021218,North America,ABIDE
-UCLA1,1,1,9.66,North America,ABIDE
-UCLA1,1,1,9.28678987,North America,ABIDE
-UCLA1,1,1,8.31211499,North America,ABIDE
-UCLA1,1,1,9.49486653,North America,ABIDE
-UCLA1,1,2,7.750855578,North America,ABIDE
-UCLA1,2,1,9.083333333,North America,ABIDE
-UCLA1,2,1,9.270362765,North America,ABIDE
-UCLA1,2,2,9,North America,ABIDE
-UCLA1,2,2,8.583333333,North America,ABIDE
-UCLA1,2,2,7.764544832,North America,ABIDE
-UCLA1,2,1,7.764544832,North America,ABIDE
-UCLA1,2,1,8.583333333,North America,ABIDE
-UCLA1,2,1,8.416666667,North America,ABIDE
-UCLA1,2,1,9.015742642,North America,ABIDE
-UCLA1,2,1,9.25,North America,ABIDE
-UCLA1,2,2,8.083333333,North America,ABIDE
-UCLA1,2,1,8.333333333,North America,ABIDE
-UCLA1,2,2,12.97,North America,ABIDE
-UCLA1,2,1,14.09,North America,ABIDE
-UCLA1,2,1,13.86447639,North America,ABIDE
-UCLA1,2,1,11.50718686,North America,ABIDE
-UMIA1,1,1,9.11,North America,ABIDE
-UMIA1,1,1,11.1,North America,ABIDE
-UMIA1,2,2,14.2,North America,ABIDE
-UMIA1,2,1,12.9,North America,ABIDE
-UMIA1,1,1,14.3,North America,ABIDE
-UMIA1,1,1,8.8,North America,ABIDE
-UMIA1,2,2,10.2,North America,ABIDE
-UMIA1,2,1,8.1,North America,ABIDE
-UMIA1,1,1,10.3,North America,ABIDE
-UMIA1,1,1,7.4,North America,ABIDE
-UMIA1,1,1,9.2,North America,ABIDE
-UMIA1,2,1,9.7,North America,ABIDE
-UMIA1,2,1,8,North America,ABIDE
-UMIA1,2,2,9.1,North America,ABIDE
-UMIA1,1,2,9.3,North America,ABIDE
-UMIA1,2,1,9.5,North America,ABIDE
-UMIA1,1,1,12.1,North America,ABIDE
-UMIA1,2,1,7.6,North America,ABIDE
-UMIA1,1,1,11.5,North America,ABIDE
-UMIA1,1,1,7.3,North America,ABIDE
-UMIA1,2,1,12.4,North America,ABIDE
-UMIA1,2,1,10.1,North America,ABIDE
-UMIA1,1,1,10,North America,ABIDE
-UMIA1,2,1,11.3,North America,ABIDE
-UMIA1,2,2,7.6,North America,ABIDE
-UMIA1,1,2,8.3,North America,ABIDE
-UMIA1,2,1,7.1,North America,ABIDE
-UMIA1,2,1,8.3,North America,ABIDE
+UCL1,1,1,11.66666667,North America,ABIDE
+UCL1,1,1,12.83333333,North America,ABIDE
+UCL1,1,1,14.66666667,North America,ABIDE
+UCL1,1,1,11.86,North America,ABIDE
+UCL1,1,1,11.55,North America,ABIDE
+UCL1,1,1,13.79,North America,ABIDE
+UCL1,1,1,13.08,North America,ABIDE
+UCL1,1,1,13.815,North America,ABIDE
+UCL1,1,1,15.03,North America,ABIDE
+UCL1,1,1,11.70157426,North America,ABIDE
+UCL1,1,1,12.29021218,North America,ABIDE
+UCL1,1,1,9.66,North America,ABIDE
+UCL1,1,1,9.28678987,North America,ABIDE
+UCL1,1,1,8.31211499,North America,ABIDE
+UCL1,1,1,9.49486653,North America,ABIDE
+UCL1,1,2,7.750855578,North America,ABIDE
+UCL1,2,1,9.083333333,North America,ABIDE
+UCL1,2,1,9.270362765,North America,ABIDE
+UCL1,2,2,9,North America,ABIDE
+UCL1,2,2,8.583333333,North America,ABIDE
+UCL1,2,2,7.764544832,North America,ABIDE
+UCL1,2,1,7.764544832,North America,ABIDE
+UCL1,2,1,8.583333333,North America,ABIDE
+UCL1,2,1,8.416666667,North America,ABIDE
+UCL1,2,1,9.015742642,North America,ABIDE
+UCL1,2,1,9.25,North America,ABIDE
+UCL1,2,2,8.083333333,North America,ABIDE
+UCL1,2,1,8.333333333,North America,ABIDE
+UCL1,2,2,12.97,North America,ABIDE
+UCL1,2,1,14.09,North America,ABIDE
+UCL1,2,1,13.86447639,North America,ABIDE
+UCL1,2,1,11.50718686,North America,ABIDE
+UMI1,1,1,9.11,North America,ABIDE
+UMI1,1,1,11.1,North America,ABIDE
+UMI1,2,2,14.2,North America,ABIDE
+UMI1,2,1,12.9,North America,ABIDE
+UMI1,1,1,14.3,North America,ABIDE
+UMI1,1,1,8.8,North America,ABIDE
+UMI1,2,2,10.2,North America,ABIDE
+UMI1,2,1,8.1,North America,ABIDE
+UMI1,1,1,10.3,North America,ABIDE
+UMI1,1,1,7.4,North America,ABIDE
+UMI1,1,1,9.2,North America,ABIDE
+UMI1,2,1,9.7,North America,ABIDE
+UMI1,2,1,8,North America,ABIDE
+UMI1,2,2,9.1,North America,ABIDE
+UMI1,1,2,9.3,North America,ABIDE
+UMI1,2,1,9.5,North America,ABIDE
+UMI1,1,1,12.1,North America,ABIDE
+UMI1,2,1,7.6,North America,ABIDE
+UMI1,1,1,11.5,North America,ABIDE
+UMI1,1,1,7.3,North America,ABIDE
+UMI1,2,1,12.4,North America,ABIDE
+UMI1,2,1,10.1,North America,ABIDE
+UMI1,1,1,10,North America,ABIDE
+UMI1,2,1,11.3,North America,ABIDE
+UMI1,2,2,7.6,North America,ABIDE
+UMI1,1,2,8.3,North America,ABIDE
+UMI1,2,1,7.1,North America,ABIDE
+UMI1,2,1,8.3,North America,ABIDE
 USM1,1,1,19.7235,North America,ABIDE
 USM1,1,1,22.1656,North America,ABIDE
 USM1,1,1,17.473,North America,ABIDE
